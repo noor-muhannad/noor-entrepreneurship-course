@@ -1,0 +1,55 @@
+{
+  "id": 6,
+  "part": 3,
+  "title": { "ar": "المنافسة والتموضع: كيف تفوز في السوق؟", "en": "Competition and Positioning" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 11: Competition (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec11/", "type": "slides", "note": { "ar": "المصدر الرئيسي: تحليل المنافسين والتموضع وBlue Ocean.", "en": "Main source: competitor analysis, positioning, Blue Ocean." } },
+    { "name": "MIT 15.390 · Lecture 3: Varieties of Innovation", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-3/", "type": "video", "note": { "ar": "مراجعة أنواع الابتكار.", "en": "Review of innovation types." } }
+  ],
+  "objectives": {
+    "ar": ["فهم لماذا عبارة «ليس لدي منافسون» تعني عادةً أنه لا يوجد سوق", "تحليل المنافسين من زاوية الزبون", "استخدام إطار Blue Ocean وإجراءاته الأربعة"],
+    "en": ["Understand why 'no competition' usually means 'no market'", "Analyse competitors through the customer's eyes", "Use the Blue Ocean four-actions framework"]
+  },
+  "summary_ar": [
+    "تؤكد شرائح MIT أن قول «ليس لدينا منافسون» يعني عملياً «لا يوجد سوق». وأكبر تحدٍ لا يكون منافساً محدداً بل الوضع القائم (Status Quo): المنتج البديل الحالي يملك 100% من السوق وأنت تبدأ من الصفر.",
+    "يُقترح تحليل ثلاث فئات: منافسون على المدى القصير، وتهديدات على المدى الأبعد، وداخلون جدد محتملون. ولكل فئة تُدرس الحصة السوقية وقاعدة الزبائن ونقاط القوة والضعف المتوقعة وخطط المنتج، ثم تُنظر من عين الزبون: أين يعملون، وكيف يبيعون، وما مستوى رضا زبائنهم، وكيف ردّوا سابقاً على التهديدات.",
+    "في التموضع لا يكفي القول «تقنيتنا أفضل». على الفريق أن يضع نفسه مكان الزبون المستهدف، ويشرح لماذا سيترك البديل ومتى، ويبحث عن منافس ضعيف يمكن لزبائن سوق البداية استغلال ضعفه.",
+    "ثم يعرض إطار Blue Ocean: خلق مساحة سوق بلا منافسة عبر أربعة إجراءات: إلغاء عوامل يعدّها القطاع بديهية، وتقليل عوامل، ورفع عوامل، وخلق عوامل جديدة. مثاله Cirque du Soleil الذي ألغى نجوم العروض والحيوانات، وأضاف قصصاً وتجربة فنية بأسعار أعلى. وتحذّر الشرائح من أخطاء شائعة منها التركيز على التقنية فقط، وتحليل ثابت بدل ديناميكي، والتقليل من شأن المنافسين."
+  ],
+  "explain_ar": [
+    "أكثر جملة يسمعها المستثمر ويكشّر: «ما عندنا منافسين». ليش؟ لأنه غالباً يعني ماكو سوق أصلاً. لو الناس تحتاج هذا الشي، أكيد أحد يحاول يحله بطريقة ما، حتى لو بطريقة بدائية.",
+    "المنافس الأكبر عندك مو شركة. هو الوضع الحالي. مثلاً بتطبيقك للمراجعة، المنافس الحقيقي هو الطالب اللي يدرس من الملزمة أو من ملاحظات صديقه. هذا الطالب يملك «100% من السوق» وأنت تبدي من صفر. فلازم تسأل: ليش يغيّر؟ ومتى يغيّر؟",
+    "ونظّر لمنافسيك بعين الزبون، مو بعين المبرمج. الزبون ما يسأل «شنو الخوارزمية»، يسأل «هذا ينفعني؟». والمحاضر يحذّر: أكثر شي يغلط بي المهندسون هو التركيز على التقنية بس.",
+    "وفكرة Blue Ocean حلوة: بدل لا تتصارع ويا الكل على نفس الميزات، غيّر اللعبة. اسأل أربعة أسئلة: شنو أحذف من اللي كل الصناعة تسويه؟ شنو أقلل؟ شنو أرفع؟ شنو أخلق جديد؟ مثال Cirque du Soleil حذف الحيوانات والنجوم، ورفع مستوى الفن، وطلب سعر أعلى، وصار مختلف عن السيرك التقليدي."
+  ],
+  "summary_en": [
+    "'We have no competition' means 'there is no market'; the biggest rival is often the status quo, which holds 100% share while you start at zero.",
+    "Analyse short-term competitors, longer-term threats and potential entrants: market share, customers, strengths and weaknesses, product roadmaps, all viewed through the customer's eyes.",
+    "Position by walking in the target customer's shoes: why and when will they switch? Look for a vulnerable competitor your beachhead can exploit.",
+    "Blue Ocean Four Actions: eliminate, reduce, raise, create (Cirque du Soleil).",
+    "Common pitfalls include focusing only on technology, using static rather than dynamic analysis, underestimating rivals and letting emotion cloud judgement."
+  ],
+  "terms": [
+    { "en": "Status quo", "ar": "الوضع القائم (البديل الحالي)" },
+    { "en": "Competitive landscape", "ar": "المشهد التنافسي" },
+    { "en": "Positioning", "ar": "التموضع" },
+    { "en": "Blue Ocean Strategy", "ar": "استراتيجية المحيط الأزرق" },
+    { "en": "Four Actions Framework", "ar": "إطار الإجراءات الأربعة" },
+    { "en": "Market share", "ar": "الحصة السوقية" }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة: المنافسون المباشرون تطبيقات دراسية عامة، وغير المباشرين الملازم وصفحات التلغرام ويوتيوب، والبديل الأقوى «الاستمرار كما هو». باستخدام Four Actions: يلغي الميزات العامة غير المرتبطة بالمنهج، ويقلل الإعلانات، ويرفع دقة المطابقة مع منهج الجامعة، ويخلق ميزة جديدة: أسئلة وامتحانات سابقة مصنّفة.",
+    "en": "The review app: direct competitors are generic study apps; indirect ones are hand-outs, Telegram channels and YouTube; the strongest rival is 'carry on as is'. Four Actions: eliminate generic features unrelated to the syllabus, reduce ads, raise alignment with the university curriculum, create a new feature: categorised past exam questions."
+  },
+  "activity": {
+    "ar": "اكتب قائمة بمنافسيك المباشرين وغير المباشرين وبديل الوضع القائم، وقارنهم بجدول من أربعة معايير يهتم بها زبونك. ثم طبّق Four Actions على مشروعك.",
+    "en": "List direct and indirect competitors and the status quo, and compare them on four criteria your customer cares about. Then apply the Four Actions to your venture.",
+    "deliverable": { "ar": "المشروع الختامي: جدول المنافسة وخريطة التموضع.", "en": "Capstone: competition table and positioning map." }
+  },
+  "quiz": [
+    { "q": { "ar": "لماذا يُعدّ الوضع القائم منافساً؟", "en": "Why is the status quo a competitor?" }, "a": { "ar": "لأن الزبون يستخدم حلاً ما اليوم أو لا يفعل شيئاً، وهذا يملك 100% من السوق قبل دخولك.", "en": "Customers already use some solution or none; that holds 100% of the market before you enter." } },
+    { "q": { "ar": "ما الإجراءات الأربعة في Blue Ocean؟", "en": "What are the Four Actions in Blue Ocean?" }, "a": { "ar": "إلغاء، تقليل، رفع، وخلق.", "en": "Eliminate, reduce, raise, create." } },
+    { "q": { "ar": "ما الخطأ في التركيز على التقنية فقط عند التموضع؟", "en": "What is wrong with positioning on technology alone?" }, "a": { "ar": "الزبون لا يشتري التقنية بل الفائدة، ويجب أن يفهم لماذا سيترك البديل ومتى.", "en": "Customers buy benefits, not technology; you must explain why and when they will leave the alternative." } }
+  ]
+}

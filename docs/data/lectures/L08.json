@@ -1,0 +1,57 @@
+{
+  "id": 8,
+  "part": 4,
+  "title": { "ar": "خطة العمل ونموذج العمل: كيف تقنع الآخرين بمشروعك؟", "en": "The Business Plan and Business Model" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 14: Business plans & designing a business model (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec14/", "type": "slides", "note": { "ar": "المصدر الرئيسي.", "en": "Main source." } },
+    { "name": "MIT 15.S21 · Nuts and Bolts of Business Plans (IAP 2014)", "url": "https://ocw.mit.edu/courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/", "type": "course", "note": { "ar": "اختياري: فيديوهات وواجبات حول إعداد الخطة.", "en": "Optional: videos and assignments on preparing a plan." } },
+    { "name": "Harvard on edX · Technology Entrepreneurship: Lab to Market", "url": "https://pll.harvard.edu/course/technology-entrepreneurship-lab-market", "type": "course", "note": { "ar": "اختياري: مواءمة نموذج العمل مع نموذج التشغيل. مجاني كـ Audit، والشهادة مدفوعة.", "en": "Optional: aligning business and operating models. Free audit; certificate paid." } }
+  ],
+  "objectives": {
+    "ar": ["معرفة الأقسام الرئيسية لخطة العمل وأخطائها الشائعة", "التمييز بين النماذج الكبرى (Creator, Distributor, Landlord, Broker) والنماذج الصغرى", "فهم ما يتوقعه المستثمر من المشروع"],
+    "en": ["Know the main sections of a business plan and common mistakes", "Distinguish macro models (Creator, Distributor, Landlord, Broker) from micro models", "Understand what an investor expects"]
+  },
+  "summary_ar": [
+    "تحذّر الشرائح من أن كثيراً من خطط العمل «مملة ومفرطة الكتابة ومربكة وغير مقنعة». الخطة الجيدة تبني مصداقيتها بترتيب منطقي وحقائق موثقة، وتُظهر كفاءة الفريق وفهم السوق وواقعية الأرقام.",
+    "أقسام الخطة: تحليل السوق (الحجم والنمو والمنافسة وقنوات التوزيع بمصادر موثوقة)، والتقنية (الوضع الحالي وما يميّزك ومخاطر التنفيذ مع التركيز على مقاربات مثبتة)، والمنافسة (هيكلهم وحصصهم وأين يستثمرون)، والفريق (إنجازات محددة لا مؤهلات عامة)، والتكتيكات والمالية (افتراضات صريحة عن التطوير والتجارب والإيراد ومعدل الحرق). ويتوقع المستثمرون بحسب الشرائح عائداً بين 3 و10 أضعاف خلال أربع سنوات.",
+    "أما نموذج العمل فهو الواجهة المالية مع الزبون وطبيعة الحقوق التي تُنقل. وتفرّق الشرائح بين نماذج كبرى (المُنشئ، الموزّع، المؤجّر، الوسيط) ونماذج صغرى (اشتراك، ترخيص، Freemium، مواد استهلاكية، نسبة من المعاملات). وفي الشركات التقنية قد تبدأ بمنتج متكامل لبناء السمعة ثم تنتقل إلى الترخيص القابل للتوسع، كما فعلت Qualcomm مع تقنية CDMA.",
+    "وفي العرض التقديمي: وضوح الفكرة، وتسلسل منطقي، ومصداقية بلا ادعاءات غير مدعومة، وحماس حقيقي، وتدريب كثير."
+  ],
+  "explain_ar": [
+    "نموذج العمل مو خطة كاملة. هو جواب سؤال واحد: شلون تخلق قيمة وشلون تاخذ منها فلوس. أما خطة العمل فهي الوثيقة الأوسع اللي تشرح كل شي: السوق والمنتج والمنافسين والفريق والأرقام.",
+    "أكثر خطأ بخطط العمل: تنكتب طويلة وممله. المستثمر ما عنده وقت. كل قسم لازم يجاوب على سؤال واحد: ليش هذا المشروع يستاهل؟ مثلاً بقسم الفريق، لا تكتب «خريج هندسة». اكتب «طوّر نظام يكتشف البرمجيات الخبيثة بدقة 99%» أو أي إنجاز فعلي عندك.",
+    "والنماذج الكبرى الأربعة بسيطة: Creator يصنع المنتج ويبيعه، Distributor يشتري ويوزّع، Landlord يؤجّر شي (منصة، أصل، ترخيص)، Broker يوصّل بين بائع وشاري ويأخذ نسبة. حدد أنت أي واحد أقرب لمشروعك، وبعدين اختر النموذج الصغير (اشتراك، Freemium...).",
+    "المستثمر يتوقع عائداً كبيراً، بين 3 و10 أضعاف بأربع سنوات حسب الشرائح. هذا مو معناه لازم مشروعك يكون ضخم، بس معناه لازم تعرف منو تخاطب. ولو تريد مشروع صغير ما يحتاج مستثمر، فالأرقام والتوقعات تكون غير.",
+    "نصيحة: قبل ما تكتب أي خطة، اكتب نموذج العمل بصفحة واحدة وجرّبه على زبائن. بعدين توسّع."
+  ],
+  "summary_en": [
+    "Weak plans are boring, overwritten, confusing and unconvincing; good ones are logical, factual and credible about team, market and numbers.",
+    "Sections: market, technology, competition, personnel (specific achievements), tactics and finance (explicit assumptions and burn rate).",
+    "Investors expect roughly 3-10× returns within four years, as stated in the slides.",
+    "Business model = the financial interface with the customer and the property rights exchanged; macro models: Creator, Distributor, Landlord, Broker; micro models: subscription, licensing, freemium, consumables, transactions.",
+    "Technology companies may start with a complete product and later license (Qualcomm CDMA example). Pitches need clarity, logic, credibility, enthusiasm and rehearsal."
+  ],
+  "terms": [
+    { "en": "Business plan", "ar": "خطة العمل" },
+    { "en": "Business model", "ar": "نموذج العمل" },
+    { "en": "Macro model", "ar": "نموذج كبير (Creator, Distributor, Landlord, Broker)" },
+    { "en": "Micro model", "ar": "نموذج صغير (اشتراك، ترخيص...)" },
+    { "en": "Burn rate", "ar": "معدل الحرق (المصروف النقدي الشهري)" },
+    { "en": "Assumptions", "ar": "الافتراضات" }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة: النموذج الكبير: Creator (ننتج المحتوى ونبيعه). النموذج الصغير: اشتراك شهري + نسخة مجانية محدودة. قسم الفريق: «عضو لديه مشروع تخرج منشور، وآخر لديه خبرة تدريس سنتين». قسم المالية: افتراض 200 مشترك بنهاية الشهر السادس، ومعدل حرق 800 دولار شهرياً.",
+    "en": "Review app: macro model = Creator (we produce and sell content); micro model = monthly subscription plus a limited free tier. Team section: 'one member with a published graduation project, another with two years of teaching experience.' Finance: assume 200 subscribers by month six and a burn rate of $800/month."
+  },
+  "activity": {
+    "ar": "اكتب نموذج عمل من صفحة واحدة: من الزبون، ما العرض، كيف يدفع، ما التكاليف الرئيسية، وما أول ثلاثة افتراضات تحتاج اختبارها. ثم اكتب فقرة قصيرة لكل من أقسام الخطة الخمسة.",
+    "en": "Write a one-page business model: who the customer is, what the offer is, how they pay, main costs, and the first three assumptions to test. Then write one short paragraph per plan section.",
+    "deliverable": { "ar": "المشروع الختامي: نموذج العمل من صفحة واحدة وقائمة الافتراضات.", "en": "Capstone: one-page business model and assumptions list." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما الفرق بين نموذج العمل وخطة العمل؟", "en": "What is the difference between a business model and a business plan?" }, "a": { "ar": "نموذج العمل يشرح كيف تخلق القيمة وتحقق الدخل، أما الخطة فوثيقة أوسع تشمل السوق والمنافسة والفريق والمالية.", "en": "A business model explains how you create value and earn income; the plan is a wider document covering market, competition, team and finance." } },
+    { "q": { "ar": "ما النماذج الكبرى الأربعة؟", "en": "What are the four macro models?" }, "a": { "ar": "Creator, Distributor, Landlord, Broker.", "en": "Creator, Distributor, Landlord, Broker." } },
+    { "q": { "ar": "كيف تكتب قسم الفريق بشكل مقنع؟", "en": "How do you write a convincing team section?" }, "a": { "ar": "اذكر إنجازات محددة وتجارب سابقة مشتركة بدل المؤهلات العامة.", "en": "State specific achievements and prior joint successes rather than generic credentials." } }
+  ]
+}

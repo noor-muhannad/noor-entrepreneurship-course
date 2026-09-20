@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "part": 1,
+  "title": { "ar": "ما هي ريادة الأعمال؟ الفرق بين المشروع الصغير والمشروع المبتكر", "en": "What Is Entrepreneurship? SME vs Innovation-Driven Ventures" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Lecture 1: What is Entrepreneurship", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-1/", "type": "video", "note": { "ar": "المصدر الرئيسي: تمييز بيل أوليت بين SME وIDE.", "en": "Main source: Bill Aulet on SME vs IDE." } },
+    { "name": "MIT 15.390 · Lecture 2: What is Innovation", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-2/", "type": "video", "note": { "ar": "الفرق بين الاختراع والابتكار.", "en": "Invention vs innovation." } },
+    { "name": "MIT 15.390 · Lecture 3: Varieties of Innovation", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-3/", "type": "video", "note": { "ar": "أنواع الابتكار وفئاته مع أمثلة شركات.", "en": "Types and categories of innovation, with company examples." } }
+  ],
+  "objectives": {
+    "ar": ["التفريق بين المشروع الصغير والمتوسط (SME) والمشروع القائم على الابتكار (IDE)", "شرح الفرق بين الاختراع والابتكار ودور التسويق التجاري (Commercialization)", "تصنيف الابتكار إلى أنواع (تقني، عمليات، نموذج عمل، تموضع) وفئات (جذري، تدريجي)"],
+    "en": ["Distinguish an SME from an Innovation-Driven Enterprise (IDE)", "Explain invention vs innovation and the role of commercialization", "Classify innovation by type (technology, process, business model, positioning) and category (disruptive, incremental)"]
+  },
+  "summary_ar": [
+    "يقسّم بيل أوليت (Bill Aulet) من معهد MIT الريادة إلى نوعين مختلفين تماماً. النوع الأول هو المشاريع الصغيرة والمتوسطة (SME) مثل محل تنظيف الملابس أو المطعم أو صالون التجميل. هذه المشاريع تركّز عادةً على سوق محلي، وتنمو نمواً تدريجياً حتى تصل إلى حدّ التشبّع، وتحتاج رأس مال قليلاً في البداية، وغالباً يملكها شخص واحد أو عائلة.",
+    "النوع الثاني هو المشاريع القائمة على الابتكار (IDE). هذه تستهدف أسواقاً واسعة، إقليمية أو عالمية، عبر ابتكار فريد. تبدأ عادةً بتدفق نقدي سالب أي أنها تخسر في البداية، وتحتاج استثماراً كبيراً، ويشارك في ملكيتها أكثر من مساهم، لكنها قد تنمو نمواً سريعاً جداً بعد أن تنجح. ويشبّه المحاضر الأمر برياضتين مختلفتين: مايكل جوردان لاعب كرة سلة عظيم لكنه لم يكن لاعب بيسبول عظيماً. النجاح في نوع لا ينتقل تلقائياً إلى النوع الآخر.",
+    "في المحاضرة الثانية يوضّح المحاضر الفرق بين الاختراع (Invention) والابتكار (Innovation): الاختراع هو فكرة أو تقنية جديدة، أما الابتكار فيحدث عندما تُحوَّل هذه الفكرة إلى شيء يصل إلى الناس ويستخدمونه، وهنا يأتي دور التسويق التجاري (Commercialization).",
+    "في المحاضرة الثالثة يعرض أنواع الابتكار: الابتكار التقني، وابتكار العمليات (إعادة تصميم طريقة إنجاز العمل)، وابتكار نموذج العمل، وابتكار التموضع. ومن أمثلة ابتكار نموذج العمل: نظام إعلانات Google القائم على الكلمات المفتاحية بدل الإعلانات الثابتة، وبيع الأغاني بشكل منفرد في iTunes بدل الاشتراك. أما فئات الابتكار فهي: الجذري (Disruptive) الذي يغيّر السوق ويفيد الداخلين الجدد، والتدريجي (Incremental) الذي يحسّن المنتج بنسبة بسيطة وتناسب الشركات الكبيرة، والابتكار المنقول من صناعة إلى أخرى. وينصح المحاضر باختيار الاستراتيجية التي تناسب وضعك في السوق."
+  ],
+  "explain_ar": [
+    "خلّينا نبسّطها. لو فتحت محل شاورما أو صالون حلاقة بالحلة، هذا مشروع صغير (SME). تعرف زبائنك، وسوقك محدود بمنطقتك، وأكثر شي ممكن توصله هو إنك تفتح فرع ثاني. هذا مو عيب أبداً، هواية ناس نجحت بيه وعاشت منه، بس هو لعبة لها قوانينها.",
+    "بالمقابل، لو سويت تطبيق أو منصة تعليمية تخدم كل الجامعات العربية، هذا صار من نوع IDE. بالبداية تصرف ولا تربح، لأن لازم تبني المنتج وتشتغل على فريق وتدوّر تمويل. وبعدين إذا نجح المنتج، الوصول لآلاف الطلاب ما يحتاج تفتح فرع ثاني، فالنمو يصير كلش سريع. بس بالمقابل ملكيتك راح تتقاسمها مع مستثمرين، والضغط أكبر.",
+    "النقطة المهمة: مو نقول هذا زين وهذا شين. النقطة إنك لازم تعرف أنت أي لعبة تريد تلعب، لأن المهارات وطريقة التمويل والفريق تختلف تماماً. مثل ما قال المحاضر: مايكل جوردان ما نجح بالبيسبول لأن هاي رياضة ثانية.",
+    "بعد هذا خلّي نفرّق بين الاختراع والابتكار. تخيّل واحد اخترع جهاز جديد بس بقى بالمختبر وما اشتراه أحد. هذا اختراع. أما لو انتشر الجهاز واشتراه الناس واستخدموه، هذا صار ابتكار. يعني الابتكار = فكرة + وصول للناس + ناس تدفع. الحلقة الناقصة اللي اسمها Commercialization هي اللي تحوّل الفكرة إلى مشروع.",
+    "وانتبه، الابتكار مو لازم يكون تقنية جديدة. أحياناً أقوى ابتكار هو بطريقة الربح (نموذج العمل). مثلاً تطبيقات التوصيل ما اخترعت الأكل ولا السيارات، بس غيّرت الطريقة اللي يوصل بيها المطعم للزبون. وهذا مثال على ابتكار نموذج العمل أو العمليات."
+  ],
+  "summary_en": [
+    "Two different games: SME entrepreneurship (local market, linear growth, small initial capital, owner-controlled) vs IDE entrepreneurship (global or super-regional market, negative early cash flow, large capital, many shareholders, potential exponential growth).",
+    "Skills do not transfer automatically between the two: the Michael Jordan basketball-vs-baseball analogy.",
+    "Invention is a new idea or technology; innovation happens when it is commercialized and used by customers.",
+    "Types of innovation: technology, process, business model (e.g. Google AdWords, iTunes per-song pricing), positioning.",
+    "Categories: disruptive (favours new entrants), incremental (10-20% better, favours incumbents), and adopting innovations from other industries. Match the strategy to your position."
+  ],
+  "terms": [
+    { "en": "SME (Small-Medium Enterprise)", "ar": "مشروع صغير ومتوسط" },
+    { "en": "IDE (Innovation-Driven Enterprise)", "ar": "مشروع قائم على الابتكار" },
+    { "en": "Invention", "ar": "اختراع" },
+    { "en": "Innovation", "ar": "ابتكار" },
+    { "en": "Commercialization", "ar": "التسويق التجاري (تحويل الفكرة لمنتج مباع)" },
+    { "en": "Business model innovation", "ar": "ابتكار نموذج العمل" },
+    { "en": "Disruptive vs Incremental", "ar": "ابتكار جذري مقابل تدريجي" }
+  ],
+  "example": {
+    "ar": "طالب في جامعة بابل أمامه خياران: (أ) يفتح مقهى قرب الجامعة. (ب) يبني تطبيق ذكاء اصطناعي بالعربي يساعد طلاب الجامعات العربية على المراجعة. المقهى SME: رأس مال محدود، سوق محلي، نمو تدريجي، ملكية شخصية. التطبيق IDE: يحتاج فريقاً ومنتجاً وتمويلاً، ويخسر بالبداية، لكن إمكانية وصوله لسوق أوسع بكثير. لا يوجد خيار صحيح مطلقاً، لكن اختيار النوع يحدد المهارات والتمويل والمخاطر.",
+    "en": "A student at the University of Babylon can (a) open a café near campus or (b) build an Arabic AI study app for universities across the region. The café is an SME: limited capital, local market, gradual growth, personal ownership. The app is an IDE: needs a team, a product and funding, loses money at first, but can reach a far larger market. Neither is 'right'; the choice determines skills, funding and risk."
+  },
+  "activity": {
+    "ar": "اختر ثلاثة مشاريع تعرفها (محلية أو عالمية). صنّف كل واحد منها: SME أم IDE؟ وما نوع الابتكار فيه (تقني، عمليات، نموذج عمل، تموضع)؟ ثم اكتب أي نوع تفضّل أن تبني ولماذا.",
+    "en": "Pick three ventures you know (local or global). Classify each as SME or IDE and name its type of innovation. Then state which kind you would rather build and why.",
+    "deliverable": { "ar": "الفقرة الأولى في المشروع الختامي: نوع المشروع الذي أريد بناءه (SME أو IDE) ولماذا.", "en": "Capstone paragraph 1: the kind of venture I want to build (SME or IDE) and why." }
+  },
+  "quiz": [
+    { "q": { "ar": "ذكر ثلاثة فروق بين SME وIDE.", "en": "Name three differences between an SME and an IDE." }, "a": { "ar": "السوق (محلي مقابل إقليمي/عالمي)، رأس المال والتدفق النقدي في البداية (قليل مقابل كبير وسالب)، الملكية (فرد أو عائلة مقابل عدة مساهمين)، ونمط النمو (تدريجي مقابل محتمل أُسّي).", "en": "Market (local vs regional/global), early capital and cash flow (small vs large and negative), ownership (individual/family vs multiple shareholders), growth pattern (gradual vs potentially exponential)." } },
+    { "q": { "ar": "ما الفرق بين الاختراع والابتكار؟", "en": "What is the difference between invention and innovation?" }, "a": { "ar": "الاختراع فكرة أو تقنية جديدة. الابتكار هو تحويل هذه الفكرة عبر التسويق التجاري إلى شيء يستخدمه الناس ويدفعون ثمنه.", "en": "An invention is a new idea or technology. Innovation is when it is commercialized into something people use and pay for." } },
+    { "q": { "ar": "لماذا قد يكون الابتكار التدريجي خياراً جيداً لشركة كبيرة؟", "en": "Why might incremental innovation suit a large company?" }, "a": { "ar": "لأنها تحمي موقعها الحالي بتحسينات مستمرة (10% أو 20% أفضل)، بينما يميل الابتكار الجذري إلى أن يفيد الداخلين الجدد.", "en": "It protects the existing position through steady improvements (10-20% better), whereas disruptive innovation tends to favour new entrants." } }
+  ]
+}

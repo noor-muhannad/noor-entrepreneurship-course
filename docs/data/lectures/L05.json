@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "part": 3,
+  "title": { "ar": "قيمة العرض: ماذا تقدّم لزبونك وما الذي يميّزك؟", "en": "Value Proposition: What You Uniquely Do for Your Customer" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 9: What can you uniquely do for your customer? (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec09/", "type": "slides", "note": { "ar": "شرائح تشرح الـ Core والقيمة للزبون.", "en": "Slides on the Core and customer value." } },
+    { "name": "MITx Online · Entrepreneurship 102: What can you do for your customer?", "url": "https://mitxonline.mit.edu/courses/course-v1:MITxT+Bootcamp2/", "type": "course", "note": { "ar": "كورس ذاتي. يتطلب إكمال 101 أولاً.", "en": "Self-paced. Prerequisite: Entrepreneurship 101." } }
+  ],
+  "objectives": {
+    "ar": ["تحديد «الجوهر» (Core) وهو الميزة التنافسية المستدامة لديك", "ترجمة هذا الجوهر إلى قيمة يراها الزبون", "كتابة عرض قيمة بأرقام قابلة للقياس"],
+    "en": ["Identify your Core, your sustainable competitive advantage", "Translate it into value the customer sees", "Write a quantified value proposition"]
+  },
+  "summary_ar": [
+    "تقدّم شرائح MIT مفهوم الجوهر (Core) في الخطوة العاشرة من إطار Disciplined Entrepreneurship: هو الميزة التنافسية المستدامة التي ستحميها وتستثمر فيها بقوة. قد يكون الجوهر ملكية فكرية (IP)، أو قدرة خاصة، أو حصة سوقية، أو وصولاً إلى موارد مهمة (موردين، مشترين، أسواق، شركاء)، أو علامة تجارية، أو تكلفة أقل. وقد لا يهم الزبون مباشرةً، فهو قدرة داخلية تمكّنك من تقديم فوائد له.",
+    "الخطوة الحادية عشرة تربط هذا الجوهر باحتياجات الزبون: ما الذي يجعل عرضك ذا قيمة من وجهة نظر الزبون لا من وجهة نظرك؟ وتُقارَن بالبدائل كلها بما فيها «لا تفعل شيئاً». من الأمثلة في الشرائح: Zappos بنت ميزتها على خدمة الزبائن، وشركة SensAble تميّزت ببرمجيات متخصصة، وشركة WellWatcher اعتمدت حماية سر تجاري للبرمجيات وبراءات اختراع للأجهزة.",
+    "ويضيف كورس Entrepreneurship 102 أدوات لتحويل ذلك إلى منتج: وصف دورة استخدام المنتج كاملة، وكتابة مواصفات عالية المستوى، وتقدير القيمة الكمية للزبون، ورسم الموقع التنافسي، وتحديد «الصلصة السرية» (Secret Sauce) التي تميّزك."
+  ],
+  "explain_ar": [
+    "خلّينا نحكيها ببساطة: الزبون ما يهمّه شنو تكنولوجيا عندك. يهمّه شنو تسوّي إله. المحاضر يفرّق بين شيئين: (1) الـ Core: شنو الشي اللي عندك ومو عند غيرك (خبرة، براءة اختراع، علاقات، سمعة...). (2) القيمة للزبون: شنو الفايدة اللي يحسّ بيها بسبب هذا الشي.",
+    "مثلاً شركة Zappos: جوهرها كان خدمة زبائن ممتازة، والزبون يحس بها براحة وثقة بالشراء. لاحظ الربط: قدرة داخلية ← فايدة يشوفها الزبون.",
+    "والسؤال الذكي بالمحاضرة: شنو البديل عن منتجك؟ حتى «ما أسوي شي» بديل! كثير زبائن يفضلون يبقون على الوضع الحالي لأن التغيير يكلّف تعب. فلازم تثبت إن منتجك يستاهل التغيير.",
+    "أحسن عرض قيمة يكون بأرقام: «نوفّر عليك ساعتين يومياً» أفضل من «نوفّر وقتك». جرّب تكتب جملتك بهذي الصيغة: نساعد [الشريحة] على [المشكلة] عن طريق [الحل]، وبالنتيجة يوفّرون [رقم].",
+    "وحاول تفكر شنو الـ Secret Sauce مالتك: شنو الشي اللي يصعّب على غيرك ينسخك بسهولة؟"
+  ],
+  "summary_en": [
+    "Core (Step 10): your sustainable competitive advantage: IP, special capability, market share, key resource access, brand or cost. It is an internal strength and may not matter to customers directly.",
+    "Step 11: translate the Core into customer-valued benefits, viewed from the customer's perspective, against all alternatives including 'do nothing'.",
+    "Examples in the slides: Zappos (customer service), SensAble (specialized software), WellWatcher (trade secrets and patents).",
+    "Entrepreneurship 102 tools: full product life-cycle use case, high-level product specification, quantified value proposition, competitive position, 'secret sauce'.",
+    "Strong value propositions are specific and quantified."
+  ],
+  "terms": [
+    { "en": "Core (competitive advantage)", "ar": "الجوهر (الميزة التنافسية المستدامة)" },
+    { "en": "Value proposition", "ar": "عرض القيمة" },
+    { "en": "Quantified value proposition", "ar": "عرض قيمة بأرقام" },
+    { "en": "Alternatives / do nothing", "ar": "البدائل / عدم فعل شيء" },
+    { "en": "Secret sauce", "ar": "الصلصة السرية (ما يصعب تقليده)" },
+    { "en": "Intellectual property (IP)", "ar": "الملكية الفكرية" }
+  ],
+  "example": {
+    "ar": "تطبيق مراجعة للطلاب المسائيين. Core: فريق يفهم منهج الجامعات المحلية + محتوى عربي مبسّط. القيمة للزبون: «نوفّر على الطالب ساعتين يومياً من التلخيص، ويرفع درجاته 10%» (افتراض يُختبر). البدائل: الدفاتر، ملازم الزملاء، يوتيوب، ولا شيء. الفارق: المحتوى مطابق لمنهجه وباللغة التي يفهمها.",
+    "en": "A review app for evening students. Core: a team that knows local university curricula plus simplified Arabic content. Customer value: 'saves two hours a day on summarizing and raises grades 10%' (a hypothesis to test). Alternatives: notebooks, classmates' notes, YouTube, nothing. Difference: content aligned to their syllabus in a language they understand."
+  },
+  "activity": {
+    "ar": "اكتب الـ Core لمشروعك وحدّد نوعه (IP، قدرة، علاقات...). ثم اكتب جملة عرض القيمة بالصيغة المعطاة مع رقم قابل للاختبار، وقائمة ببدائل الزبون الحالية.",
+    "en": "Write your Core and name its kind (IP, capability, relationships...). Then write the value-proposition sentence with a testable number and list the customer's current alternatives.",
+    "deliverable": { "ar": "المشروع الختامي: صفحة قيمة العرض.", "en": "Capstone: value proposition page." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما الفرق بين الـ Core والقيمة للزبون؟", "en": "What is the difference between the Core and customer value?" }, "a": { "ar": "الـ Core قدرة أو ميزة داخلية عندك. القيمة هي الفائدة التي يراها الزبون بسببها.", "en": "The Core is your internal strength; customer value is the benefit the customer sees because of it." } },
+    { "q": { "ar": "لماذا يُعدّ «لا شيء» بديلاً منافساً؟", "en": "Why is 'do nothing' a competing alternative?" }, "a": { "ar": "لأن كثيراً من الزبائن يفضّلون الوضع الحالي إن كان التغيير مكلفاً، فعليك إثبات أن منتجك يستحق التغيير.", "en": "Many customers stay put if switching is costly, so you must prove your product is worth switching to." } },
+    { "q": { "ar": "أعطِ مثالين على أنواع الـ Core.", "en": "Give two kinds of Core." }, "a": { "ar": "ملكية فكرية (براءة أو سر تجاري)، قدرة خاصة، حصة سوقية، وصول لموارد، علامة تجارية، أو تكلفة أقل.", "en": "Intellectual property, special capability, market share, resource access, brand or lower cost." } }
+  ]
+}

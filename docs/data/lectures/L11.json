@@ -1,0 +1,145 @@
+{
+  "id": 11,
+  "part": 6,
+  "title": {
+    "ar": "مالية المشروع الناشئ: القوائم المالية والتدفق النقدي",
+    "en": "Startup Finance: Financial Statements, Unit Economics and Cash Flow"
+  },
+  "hours": 2,
+  "sources": [
+    {
+      "name": "MIT 15.390 · Session 18: Financials (slides)",
+      "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec18/",
+      "type": "slides",
+      "note": {
+        "ar": "المصدر الرئيسي: الخطة المالية للمشروع الناشئ.",
+        "en": "Main source: a startup's financial plan."
+      }
+    },
+    {
+      "name": "Coursera · Introduction to Financial Accounting (Wharton)",
+      "url": "https://www.coursera.org/learn/wharton-accounting",
+      "type": "course",
+      "note": {
+        "ar": "كورس أسبوعان بمعدل 10 ساعات. Audit مجاني، والشهادة مدفوعة.",
+        "en": "Two weeks at 10 hours/week. Free audit; certificate paid."
+      }
+    },
+    {
+      "name": "MIT 15.393 · Financial Projections",
+      "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session5-part2_mp4/",
+      "type": "video",
+      "note": {
+        "ar": "فيديو تكميلي.",
+        "en": "Complementary video."
+      }
+    }
+  ],
+  "objectives": {
+    "ar": [
+      "معرفة القوائم المالية الثلاث وقراءتها",
+      "التمييز بين الربح المحاسبي والتدفق النقدي",
+      "بناء توقعات مالية بسيطة بثلاث سيناريوهات"
+    ],
+    "en": [
+      "Know and read the three financial statements",
+      "Distinguish accounting profit from cash flow",
+      "Build simple projections with three scenarios"
+    ]
+  },
+  "summary_ar": [
+    "تقول شرائح MIT إن الخطة المالية للمشروع الناشئ تحتاج ثلاث وثائق: قائمة الدخل (الأرباح والخسائر)، وتوقعات التدفق النقدي، والميزانية العمومية. وهي «تضع أرقاماً لنظرية نموذج العمل». نقطة البداية نموذج الإيراد: الإيراد = عدد الوحدات × متوسط السعر، وترتبط الافتراضات بمحطات المشروع.",
+    "تكلفة البضاعة المباعة (COGS) تشمل التكاليف المباشرة للإنتاج فقط (المواد والعمالة)، أما المصاريف التشغيلية فتشمل الرواتب والإيجار والتسويق والبحث والتطوير والتوظيف. ومن المهم فهم أي التكاليف ثابتة وأيها متغيرة. وتُقاس اقتصاديات الوحدة بمتوسط الإيراد لكل زبون وتكلفة اكتساب الزبون وهامش الربح الإجمالي والتشغيلي وفترة استرداد تكلفة الزبون.",
+    "«النقد هو المهم وليس الأرباح المحاسبية»: تُعدّ توقعات شهرية لأول سنتين ثم ربع سنوية، ويختلف التعادل النقدي عن التعادل المحاسبي، ويُحسب معدل الحرق الشهري ومقدار رأس المال اللازم للوصول إلى كل محطة. وتُبنى ثلاثة سيناريوهات (المحتمل والأسوأ والأفضل) لمعرفة أي الافتراضات أخطر، ولا تُبنى منحنيات نمو خيالية (Hockey Stick).",
+    "ويقدّم كورس Wharton قراءة القوائم الثلاث والمحاسبة بالاستحقاق وتحليل النسب المالية مع دراسة حالة لشركة ناشئة."
+  ],
+  "explain_ar": [
+    "الأرقام ما تخوّف إذا فهمتها بالتدريج. ثلاث ورقات بس: (1) قائمة الدخل: شكد ربحت أو خسرت بفترة معينة. (2) الميزانية: شنو تملك وشنو عليك بوقت معين. (3) التدفق النقدي: شكد فلوس دخلت وطلعت فعلاً.",
+    "أهم شي تفهمه: مشروع ممكن يربح على الورق ويفلس! ليش؟ لأنك بعت بالأجل والفلوس ما وصلت، أو دفعت مقدماً لمورد. الربح المحاسبي شي، والفلوس اللي بجيبك شي ثاني. لهذا المحاضرة تكرر: Cash is king، النقد هو الأهم.",
+    "الـ Burn Rate هو كم تصرف كل شهر. لو عندك 6,000 دولار ومصروفك 800 بالشهر، ولا يدخل أي إيراد، فأنت تكدر تكمل حوالي 7 أشهر ونص، وهذا اسمه Runway. وقبل ما تنتهي لازم تربح أو تجيب تمويل.",
+    "والثلاث سيناريوهات: المحتمل، الأسوأ، الأفضل. مثلاً إذا الزبائن كانوا نصف اللي توقعت، هل يستمر المشروع؟ هذا يعلمك أي افتراض أخطر.",
+    "وتحذير المحاضر: لا ترسم منحنى نمو يطلع فجأة للسماء بلا سبب (Hockey Stick). المستثمر يشمّ الأرقام المبالغ بيها. اربط نموّك بحصة سوق واقعية من الـ TAM اللي حسبته.",
+    "الأرقام بالمثال أدناه تدريبية."
+  ],
+  "summary_en": [
+    "A startup financial plan needs an income statement (P&L), cash flow projections and a balance sheet, putting numbers to the business model.",
+    "Revenue = units × average price. COGS holds only direct production costs; operating expenses include salaries, rent, marketing, R&D and recruiting. Know which costs are fixed and variable.",
+    "Unit economics: average revenue per customer, customer acquisition cost, gross and operating margins, payback period.",
+    "Cash, not accounting profit, is what matters: monthly projections for two years then quarterly; cash breakeven differs from accounting breakeven; know your monthly burn and the capital needed per milestone.",
+    "Model probable, worst and best cases; avoid unrealistic hockey-stick growth and tie growth to realistic market share."
+  ],
+  "terms": [
+    {
+      "en": "Income statement (P&L)",
+      "ar": "قائمة الدخل"
+    },
+    {
+      "en": "Balance sheet",
+      "ar": "الميزانية العمومية"
+    },
+    {
+      "en": "Cash flow statement",
+      "ar": "قائمة التدفقات النقدية"
+    },
+    {
+      "en": "COGS (Cost of Goods Sold)",
+      "ar": "تكلفة البضاعة المباعة"
+    },
+    {
+      "en": "Burn rate / Runway",
+      "ar": "معدل الحرق / مدة البقاء"
+    },
+    {
+      "en": "Breakeven",
+      "ar": "نقطة التعادل"
+    },
+    {
+      "en": "Sensitivity analysis",
+      "ar": "تحليل الحساسية"
+    }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة (أرقام تدريبية): رصيد البداية 6,000 دولار وتكاليف شهرية 800 دولار. لو لم يدخل أي إيراد فالنقد يكفي نحو 7.5 أشهر. السيناريو المحتمل: 200 مشترك بنهاية الشهر السادس × 5 دولار = 1,000 دولار شهرياً، أي أعلى من التكاليف. السيناريو الأسوأ: 80 مشتركاً فقط = 400 دولار، فيبقى عجز شهري 400 دولار ويكفي النقد نحو 15 شهراً لكن المشروع لا يصل إلى التعادل. النتيجة: يحتاج المشروع قناة اكتساب أرخص أو رفع السعر.",
+    "en": "Review app (training numbers): opening cash $6,000 and monthly costs of $800. With no revenue, cash lasts about 7.5 months. Probable case: 200 subscribers by month six × $5 = $1,000/month, above costs. Worst case: only 80 subscribers = $400/month, leaving a $400 monthly shortfall; cash lasts about 15 months but the business never breaks even. Conclusion: it needs a cheaper acquisition channel or a higher price."
+  },
+  "activity": {
+    "ar": "أعدّ جدولاً لأول 12 شهراً: الإيراد (وحدات × سعر)، التكاليف الثابتة والمتغيرة، الرصيد النقدي الشهري، ومعدل الحرق. ثم أعد الحساب في السيناريو الأسوأ والأفضل.",
+    "en": "Build a 12-month table: revenue (units × price), fixed and variable costs, monthly cash balance and burn. Repeat for the worst and best cases.",
+    "deliverable": {
+      "ar": "المشروع الختامي: جدول مالي 12 شهراً بثلاثة سيناريوهات.",
+      "en": "Capstone: 12-month financial table with three scenarios."
+    }
+  },
+  "quiz": [
+    {
+      "q": {
+        "ar": "ما القوائم المالية الثلاث؟",
+        "en": "What are the three financial statements?"
+      },
+      "a": {
+        "ar": "قائمة الدخل، الميزانية العمومية، قائمة التدفقات النقدية.",
+        "en": "Income statement, balance sheet, cash flow statement."
+      }
+    },
+    {
+      "q": {
+        "ar": "لماذا قد يربح مشروع ويفلس؟",
+        "en": "How can a business be profitable and still run out of money?"
+      },
+      "a": {
+        "ar": "لأن الربح المحاسبي لا يعني وجود نقد، كالبيع بالأجل أو الدفع المقدم للموردين.",
+        "en": "Accounting profit is not cash: credit sales or prepayments can drain cash."
+      }
+    },
+    {
+      "q": {
+        "ar": "ما فائدة السيناريوهات الثلاثة؟",
+        "en": "What is the value of three scenarios?"
+      },
+      "a": {
+        "ar": "تكشف أي الافتراضات أخطر على بقاء المشروع.",
+        "en": "They reveal which assumptions most threaten viability."
+      }
+    }
+  ]
+}

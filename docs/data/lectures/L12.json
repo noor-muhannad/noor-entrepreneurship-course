@@ -1,0 +1,58 @@
+{
+  "id": 12,
+  "part": 6,
+  "title": { "ar": "الفريق والقانون والتوسّع والعرض أمام المستثمر", "en": "Team, Legal Basics, Scaling and the Pitch" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 20: Legal and organizational matters (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec20/", "type": "slides", "note": { "ar": "سياق أمريكي: للفهم العام فقط.", "en": "US context: for general understanding only." } },
+    { "name": "MIT 15.390 · Session 21: Scaling, team and how to present a business plan (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec21/", "type": "slides", "note": { "ar": "التوسع والفريق وهيكل العرض.", "en": "Scaling, team and pitch structure." } },
+    { "name": "MIT 15.393 · Presenting Your Venture", "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session4-part1_mp4/", "type": "video", "note": { "ar": "فيديو تكميلي.", "en": "Complementary video." } },
+    { "name": "MIT 15.393 · Common Startup Mistakes", "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session6-part2_mp4/", "type": "video", "note": { "ar": "أخطاء شائعة في البدايات.", "en": "Common startup mistakes." } }
+  ],
+  "objectives": {
+    "ar": ["معرفة الخطوات القانونية والتنظيمية الأولى للمشروع (بمقارنة مع السياق المحلي)", "فهم مبادئ حصص المؤسسين والـ Vesting", "بناء عرض من 7 شرائح خلال 10 دقائق"],
+    "en": ["Know the first legal and organisational steps (adapted to the local context)", "Understand founder equity and vesting principles", "Build a 7-slide, 10-minute pitch"]
+  },
+  "summary_ar": [
+    "تنبّه شرائح MIT قبل الانطلاق إلى مراجعة عقد عملك الحالي فيما يخص ملكية الاختراعات والملكية الفكرية، وتنصح بتكوين فريق قانوني (محامي شركات ومحامي ملكية فكرية) يمثّل مصلحة رواد الأعمال. وتشرح خيارات الشكل القانوني للشركة (في السياق الأمريكي: S-Corp أو LLC)، وأن حصص المؤسسين تُمنح عادةً بجدول استحقاق (Vesting) مدته أربع سنوات مع سنة أولى «Cliff»، وأن الموظفين يحصلون على خيارات أسهم. كما تذكر السياسات الأساسية للموارد البشرية والتأمين والحسابات المصرفية والتسجيل الضريبي.",
+    "في التوسّع (Scaling): مؤشرات الجاهزية هي طلب فعلي من الزبائن وأنماط اعتماد واضحة وإمكانية انتشار بالكلمة. التوقيت حاسم: التوسع المبكر قد يضرّ، والمتأخر يضيّع الفرصة. ويتحول دور المؤسس من منفّذ إلى مصمّم للمنظمة. وفي قسم الفريق: جودة الفريق المؤسس ووضوح الأدوار والفجوات وخطة توظيف وهيكل تنظيمي لسنة وسنتين وخمس سنوات.",
+    "أما العرض لمدة عشر دقائق فيتكوّن غالباً من سبع شرائح: مقدمة وشعار جذاب، الزبون المستهدف وألمه، الحل مع صور، خطة الدخول للسوق، الأرقام المالية، الفريق والمنافسة، ثم الخلاصة والطلب المحدد. ومن عوامل النجاح: الحماس، ودليل على وجود طلب، وجودة الفريق، وميزة تنافسية مستدامة."
+  ],
+  "explain_ar": [
+    "هذا الدرس فيه شي مهم لازم أوضحه: الأمثلة القانونية بالمحاضرة أمريكية (Delaware، S-Corp، LLC). بالعراق القوانين وأنواع الشركات والتسجيل غير، فلا تنسخ. استخدم المحاضرة لتفهم الأفكار العامة، وبعدين استشر محامياً عراقياً أو الجهة المختصة بتسجيل الشركات عندنا.",
+    "الأفكار العامة اللي تنفعك بأي بلد: أول شي، تأكد إنك ما مقيّد بعقد شغلك الحالي (مثلاً اختراع تسويه يصير ملك الشركة اللي تشتغل بيها). ثاني شي، اكتبوا اتفاق بين المؤسسين من البداية: منو يملك شكد ومنو يسوي شنو.",
+    "والـ Vesting بسيطة: تنخذ حصتك بالتدريج مو مرة وحدة. الشائع أربع سنوات، وبعد أول سنة تنخذ ربع الحصة (Cliff). ليش؟ حتى إذا شريك ترك المشروع بعد شهرين ما ياخذ نص الشركة وياه. الفكرة عادلة للجميع.",
+    "متى توسّع؟ لا تتسرع. توسّع لمن يصير عندك طلب حقيقي والزبائن يوصون بيك. التوسع بدري يصرف فلوسك قبل ما تثبت المنتج. وكل ما تكبر، صار دورك تصمم الفريق وتضع المعايير أكثر ما تسوي الشغل بنفسك.",
+    "وآخر شي العرض (Pitch). سبع شرائح بعشر دقائق: مين زبونك وشنو ألمه، شنو حلّك، شلون توصل للسوق، الأرقام، الفريق، وشنو تطلب بالنهاية (تمويل؟ شريك؟ تجربة؟). خلّي الطلب واضح. وتمرّن هواية، لأن الحماس الحقيقي يبين.",
+    "وتذكّر: أكثر الأخطاء بالبدايات هي التسرع، وعدم كتابة الاتفاقات، وعدم الاستماع للزبون. شاهد فيديو Common Startup Mistakes للتكملة."
+  ],
+  "summary_en": [
+    "Before launching, review your current employment agreement on invention assignment and IP; assemble legal counsel (corporate and IP) who represent entrepreneurs. The legal examples (Delaware, S-Corp, LLC) are American; check local law.",
+    "Founder equity typically vests over four years with a one-year cliff; employees receive stock options. Set up HR policies, insurance, bank accounts and tax registration.",
+    "Scaling readiness: demonstrated demand, adoption patterns, word-of-mouth potential. Timing matters: too early can hurt, too late wastes the opportunity. The founder shifts from doer to organisation designer.",
+    "Team section: founding team quality, clear roles, skill gaps, a hiring plan and org charts for years one, two and five.",
+    "A ten-minute pitch of about seven slides: tagline, customer and pain, solution, go-to-market, financials, team and competition, summary with a clear call to action."
+  ],
+  "terms": [
+    { "en": "Vesting / Cliff", "ar": "جدول استحقاق الحصص / الفترة الأولى" },
+    { "en": "Equity / Cap table", "ar": "حصص الملكية / جدول الملكية" },
+    { "en": "Stock option", "ar": "خيار أسهم" },
+    { "en": "Intellectual property (IP)", "ar": "الملكية الفكرية" },
+    { "en": "Scaling", "ar": "التوسّع" },
+    { "en": "Pitch / Call to action", "ar": "العرض التقديمي / الطلب المحدد" }
+  ],
+  "example": {
+    "ar": "فريق من ثلاثة مؤسسين يتفق مكتوباً على: نسب الملكية، وVesting أربع سنوات بـ Cliff سنة، وأدوار كل عضو. قبل التسجيل يراجعون القانون العراقي مع محامٍ. عرضهم: 7 شرائح، وينتهي بطلب واضح: «نبحث عن 20 كلية لتجربة مجانية لمدة فصل».",
+    "en": "Three co-founders put in writing: ownership shares, four-year vesting with a one-year cliff, and each member's role. Before registration they check Iraqi law with a lawyer. Their pitch: seven slides ending with a clear ask: 'We are looking for 20 faculties for a free one-semester pilot.'"
+  },
+  "activity": {
+    "ar": "اكتب اتفاق مؤسسين مبدئياً (الأدوار، النسب، الـ Vesting) وقائمة أسئلة لمحامٍ محلي. ثم اكتب عرضاً من 7 شرائح مع ملاحظات المتحدث، وقدّمه لزميل لمدة 10 دقائق.",
+    "en": "Draft a founders' agreement outline (roles, shares, vesting) and a list of questions for a local lawyer. Then build a 7-slide pitch with speaker notes and present it to a peer in 10 minutes.",
+    "deliverable": { "ar": "المشروع الختامي: عرض 7 شرائح وخطة الفريق والقانون.", "en": "Capstone: 7-slide pitch and team/legal plan." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما الـ Vesting ولماذا يُستخدم؟", "en": "What is vesting and why is it used?" }, "a": { "ar": "استحقاق الحصص تدريجياً (غالباً أربع سنوات مع Cliff سنة) حتى لا يحتفظ من يغادر مبكراً بحصة كبيرة.", "en": "Shares are earned gradually (often four years with a one-year cliff) so that someone who leaves early does not keep a large stake." } },
+    { "q": { "ar": "ما مؤشرات الجاهزية للتوسع؟", "en": "What signals readiness to scale?" }, "a": { "ar": "طلب فعلي من الزبائن، أنماط اعتماد واضحة، وقابلية الانتشار بالكلمة.", "en": "Real customer demand, clear adoption patterns and word-of-mouth potential." } },
+    { "q": { "ar": "ما الشرائح السبع في عرض العشر دقائق؟", "en": "What are the seven slides of a ten-minute pitch?" }, "a": { "ar": "مقدمة وشعار، الزبون والألم، الحل، الدخول للسوق، المالية، الفريق والمنافسة، الخلاصة والطلب.", "en": "Intro and tagline, customer and pain, solution, go-to-market, financials, team and competition, summary and call to action." } }
+  ]
+}

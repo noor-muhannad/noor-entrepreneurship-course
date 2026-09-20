@@ -1,0 +1,55 @@
+{
+  "id": 3,
+  "part": 2,
+  "title": { "ar": "ما الذي يصنع مشروعاً؟ زبون يدفع، وتقسيم السوق", "en": "What Makes a Business: A Paying Customer and Market Segmentation" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Lecture 12: What Makes a Business", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-12/", "type": "video", "note": { "ar": "الشرط الوحيد الضروري والكافي: زبون يدفع.", "en": "The single necessary and sufficient condition: a paying customer." } },
+    { "name": "MIT 15.390 · Lecture 6: How to Do Market Segmentation", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-6/", "type": "video", "note": { "ar": "خطوات تقسيم السوق بمنهجية.", "en": "A rigorous segmentation process." } },
+    { "name": "MITx Online · Entrepreneurship 101: Who is Your Customer?", "url": "https://mitxonline.mit.edu/courses/course-v1:MITxT+Bootcamp1/", "type": "course", "note": { "ar": "كورس ذاتي (4 أسابيع). المواد مجانية، والشهادة مدفوعة.", "en": "Self-paced (4 weeks). Materials free; certificate paid." } }
+  ],
+  "objectives": {
+    "ar": ["فهم أن الشرط الأساسي للمشروع هو وجود زبون يدفع", "تطبيق خطوات تقسيم السوق (Market Segmentation)", "أهمية البحث الأولي المباشر (Primary Research) بدل الاعتماد على الإنترنت"],
+    "en": ["Understand that a paying customer is what makes a business", "Apply the market segmentation steps", "See why primary research beats desk research"]
+  },
+  "summary_ar": [
+    "يسأل المحاضر: ما الشرط الوحيد الضروري والكافي لوجود مشروع؟ ويجيب: زبون يدفع. لا خطة عمل ولا مدير تنفيذي ولا بيان رسالة ولا منتج متطور ولا دراسة سوق تقوم مقام ذلك. ويضرب مثل الليمونادة: مشروب متطور جداً يخفّض التكلفة إلى النصف ويحسّن الجودة عشرة أضعاف، وبسطة ليمونادة عند طفل، كلاهما يحتاجان الشيء نفسه: شخصاً يدفع. ويضيف أن المطلوب ليس زبوناً واحداً، بل زبائن كثيرين وبطريقة مربحة.",
+    "بعد ذلك ينتقل المحاضر إلى تقسيم السوق بمنهجية: (1) عصف ذهني مع الفريق لاستخراج تطبيقات وأسواق ممكنة، ولا توجد فكرة مجنونة في هذه المرحلة. (2) تدوين كل الفرص في قائمة، وغالباً تتبيّن أن الافتراضات الأولى خاطئة. (3) البحث الأولي مع الزبائن أنفسهم: ملاحظتهم وهم يعملون، وفهم احتياجاتهم العقلانية ودوافعهم العاطفية وسياقهم الاجتماعي. (4) تقليص القائمة من نحو عشرين فرصة إلى ست أو ثماني. (5) بحث أعمق في الخيارات المتبقية.",
+    "يحذّر المحاضر: لا تثق بما تراه على الإنترنت ولا بتقارير الآخرين دون تحقق، ولا تكلّف غيرك بهذه المهمة: عليك أن تفعلها بنفسك."
+  ],
+  "explain_ar": [
+    "هاي الجملة لازم تنكتب على الحايط: المشروع يعني زبون يدفع. مو فكرة حلوة، ومو Logo حلو، ومو خطة من 40 صفحة. لو ماكو أحد يدفع، عندك مشروع تجريبي لحد الآن.",
+    "شلون نفهم مثال الليمونادة؟ الطفل اللي يبيع ليمونادة بالشارع وشركة تصنع مشروب بتقنية معقدة، الاثنين يحتاجون نفس الشي: واحد يمد إيده ويدفع. التقنية العالية ما تعوّض غياب الزبون. وحتى لو جاء زبون واحد، ما يكفي. المشروع الحقيقي زبائن هواية وبربح.",
+    "وتقسيم السوق شنو؟ تخيّل عندك تطبيق مراجعة للطلاب. مو كل الطلاب سوق واحد. طلاب الطب حاجاتهم غير طلاب الهندسة، وطلاب الجامعة غير طلاب السادس الإعدادي. لازم تقسمهم لمجموعات وتشوف أي مجموعة عندها ألم أكبر وتدفع.",
+    "وأهم نصيحة بالمحاضرة: اطلع وحاجي الناس. لا تكتفي بمقالات وإحصائيات من الإنترنت. اقعد وياهم، شوف شلون يدرسون، شنو يزعجهم، شنو يخافون منه. هذا الشغل ماكو أحد يسويه بدالك، وهذا اللي يفرّق مشروعاً ناجحاً عن مشروع مبني على افتراضات."
+  ],
+  "summary_en": [
+    "The single necessary and sufficient condition for a business is a paying customer; no plan, product or analysis substitutes for it (the lemonade-stand principle).",
+    "You need many paying customers, and you need to acquire them profitably.",
+    "Segmentation steps: brainstorm applications; list them; do primary research with real customers; narrow from about twenty to six or eight; then dig deeper.",
+    "Primary research means observing customers in context: rational needs, emotional drivers, social setting.",
+    "Do the customer research yourself; do not trust unverified internet reports."
+  ],
+  "terms": [
+    { "en": "Paying customer", "ar": "زبون يدفع" },
+    { "en": "Market segmentation", "ar": "تقسيم السوق" },
+    { "en": "Primary research", "ar": "البحث الأولي (مباشر مع الزبائن)" },
+    { "en": "Secondary research", "ar": "البحث الثانوي (تقارير ومصادر جاهزة)" },
+    { "en": "Customer needs", "ar": "احتياجات الزبون" },
+    { "en": "Observation", "ar": "الملاحظة الميدانية" }
+  ],
+  "example": {
+    "ar": "فريق يبني تطبيقاً لمراجعة المحاضرات. بعد العصف الذهني يجد عشرين شريحة محتملة (طلاب الطب، الهندسة، الموظفين الذين يدرسون ماجستير، طلاب المعاهد...). يجري مقابلات مع خمسة أشخاص من كل شريحة ويلاحظهم أثناء الدراسة. يكتشف أن طلاب الدراسات المسائية لديهم وقت ضيق وألم كبير، فتبقى ست شرائح فقط للبحث الأعمق.",
+    "en": "A team building a lecture-review app brainstorms twenty segments (medicine, engineering, working master's students, institute students...). They interview and observe five people from each. Evening-programme students turn out to be time-poor with the most pain, and six segments remain for deeper research."
+  },
+  "activity": {
+    "ar": "اختر فكرة مشروع. اكتب عشر شرائح محتملة للزبائن، وأجرِ مقابلات قصيرة (10 دقائق) مع خمسة أشخاص على الأقل. ثم قلّص القائمة إلى ثلاث شرائح واكتب سبب كل اختيار بناءً على ما سمعته.",
+    "en": "Choose a venture idea. List ten potential customer segments and run short (10-minute) interviews with at least five people. Narrow to three segments and justify each from what you heard.",
+    "deliverable": { "ar": "المشروع الختامي: قائمة الشرائح وملخص المقابلات.", "en": "Capstone: segment list and interview summary." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما الشرط الضروري والكافي لوجود مشروع؟", "en": "What is the necessary and sufficient condition for a business?" }, "a": { "ar": "وجود زبون يدفع، وبعدها زبائن كثيرون بطريقة مربحة.", "en": "A paying customer, then many customers acquired profitably." } },
+    { "q": { "ar": "ما خطوات تقسيم السوق؟", "en": "What are the segmentation steps?" }, "a": { "ar": "عصف ذهني، قائمة الفرص، بحث أولي مع الزبائن، تقليص من نحو 20 إلى 6-8، ثم بحث أعمق.", "en": "Brainstorm, list opportunities, primary research, narrow from about 20 to 6-8, then deeper research." } },
+    { "q": { "ar": "لماذا لا يكفي البحث على الإنترنت؟", "en": "Why is internet research not enough?" }, "a": { "ar": "لأن تقارير الآخرين قد لا تعكس احتياجات زبائنك الفعلية، والملاحظة المباشرة تكشف الدوافع والمخاوف التي لا تظهر في الأرقام.", "en": "Third-party reports may not reflect your actual customers' needs, while direct observation reveals motives and fears that numbers hide." } }
+  ]
+}

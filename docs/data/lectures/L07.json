@@ -1,0 +1,56 @@
+{
+  "id": 7,
+  "part": 4,
+  "title": { "ar": "كيف يربح المشروع؟ نماذج الإيراد والتسعير وقيمة الزبون", "en": "How Do You Make Money? Revenue Models, Pricing, LTV and COCA" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 13: How do you capture value? (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec13/", "type": "slides", "note": { "ar": "المصدر الرئيسي: نماذج الإيراد وLTV وCOCA.", "en": "Main source: revenue models, LTV and COCA." } },
+    { "name": "MIT 15.393 · How Are You Going to Make Money? The Business/Venture Model", "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session2-part2_mp4/", "type": "video", "note": { "ar": "فيديو تكميلي عن نموذج المشروع.", "en": "Complementary video on the venture model." } }
+  ],
+  "objectives": {
+    "ar": ["معرفة أشهر نماذج الإيراد واختيار ما يناسب مشروعك", "حساب قيمة الزبون على مدى حياته (LTV)", "حساب تكلفة اكتساب الزبون (COCA) وفهم قاعدة LTV أكبر من 3 أضعاف COCA"],
+    "en": ["Know common revenue models and choose one for your venture", "Compute customer lifetime value (LTV)", "Compute customer acquisition cost (COCA) and apply the LTV ≥ 3×COCA rule"]
+  },
+  "summary_ar": [
+    "تعرض الشرائح طرقاً متعددة لتحصيل الإيراد: رسم مقدّم لمرة واحدة (مع صيانة) أو ترخيص، ونماذج متكررة مثل الاشتراك والتأجير والتوفير المشترك، ومواد استهلاكية وعقود تشغيل وصيانة، ونماذج مختلطة مثل البيع الإضافي والإعلانات والنسبة من المعاملات، ونماذج حديثة مثل Freemium والتسعير حسب الاستخدام والامتياز والمدفوعات الصغيرة. وتوضح الأمثلة (iTunes وGoogle وSalesforce وغيرها) أن اختيار النموذج قد يحدد مصير الشركة حتى مع المنتج نفسه.",
+    "قيمة الزبون على مدى الحياة (LTV) هي القيمة الحالية الصافية للأرباح المتوقعة من زبون خلال خمس سنوات. وتتأثر بهامش الربح الإجمالي ومعدل الاحتفاظ بالزبائن وتكلفة رأس المال وفرص البيع الإضافي. والمبدأ: «الربح هو المهم وليس الإيراد».",
+    "تكلفة اكتساب الزبون (COCA) هي مجموع مصاريف التسويق والمبيعات مطروحاً منها دعم الزبائن الحاليين، مقسوماً على عدد الزبائن الجدد في الفترة. وغالباً تبدو الحسابات الأولية أقل من الحقيقة عندما تُضاف نسب التحويل ودورة البيع الطويلة والدعم التنظيمي. وقاعدة Skok: يجب أن تكون LTV على الأقل 3 أضعاف COCA. ومن المتوقع أن تنخفض COCA مع نضج الشركة عبر تحسين التحويل وجودة العملاء المحتملين والتسويق الوارد والأتمتة."
+  ],
+  "explain_ar": [
+    "نموذج الإيراد معناه: من وين تجي الفلوس؟ وشلون؟ ممكن الزبون يدفع مرة وحدة، ممكن يشترك شهرياً، ممكن المنتج مجاني والفلوس من الإعلانات، ممكن Freemium يعني نسخة مجانية ونسخة مدفوعة. نفس المنتج ممكن ينجح بنموذج ويفشل بنموذج ثاني.",
+    "الـ LTV شنو؟ هو شكد تربح من زبون واحد طول فترة تعامله وياك (المحاضرة تحسبها لخمس سنوات). لو مشترك يدفع 5 دولار بالشهر ويبقى سنتين وهامشك 80%، LTV تقريباً 5 × 24 × 0.8 = 96 دولار (مثال مبسّط بدون خصم). وانتبه: نحسب الربح، مو الإيراد.",
+    "والـ COCA شنو؟ شكد يكلّفك تجيب زبون واحد جديد. أخذت 500 دولار إعلانات وسويت 20 مشترك جديد، يعني COCA = 25 دولار. هنا الخطأ الشائع: ننسى نحسب وقت الفريق والعروض المجانية وطول عملية البيع، فنطلع بأرقام أقل من الحقيقة.",
+    "القاعدة الذهبية: LTV لازم يكون على الأقل 3 أضعاف COCA (Skok's Law). بمثالنا 96 ÷ 25 ≈ 3.8، يعني نموذج مقبول. لو كان 1.5 مثلاً، معناها كل ما تكبر تخسر أكثر.",
+    "وهذه أرقام تدريبية، لازم تبدّلها بأرقام مشروعك بعد ما تختبر سوقك."
+  ],
+  "summary_en": [
+    "Revenue models: one-time charge (plus maintenance) or licensing; recurring (subscription, leasing, shared savings); consumables; operations and maintenance; upsell, advertising, transaction fees; freemium, utility pricing, franchise, micro-transactions.",
+    "The same product can succeed or fail depending on the model chosen (iTunes, Google, Salesforce examples).",
+    "LTV: NPV of the profit from one customer over five years; depends on gross margin, retention, cost of capital, upsell. Profit matters, not revenue.",
+    "COCA = (total marketing and sales expense − support for the installed base) ÷ new customers in the period. Initial estimates usually understate it.",
+    "Skok's Law: LTV should be at least 3× COCA. COCA should fall over time through better conversion, lead quality, inbound marketing and automation."
+  ],
+  "terms": [
+    { "en": "Revenue model", "ar": "نموذج الإيراد" },
+    { "en": "Subscription", "ar": "اشتراك" },
+    { "en": "Freemium", "ar": "نسخة مجانية ومدفوعة" },
+    { "en": "LTV (Lifetime Value)", "ar": "قيمة الزبون على مدى حياته" },
+    { "en": "COCA (Cost of Customer Acquisition)", "ar": "تكلفة اكتساب الزبون" },
+    { "en": "Gross margin", "ar": "هامش الربح الإجمالي" },
+    { "en": "Retention", "ar": "الاحتفاظ بالزبائن" }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة (أرقام تدريبية): اشتراك 5 دولار شهرياً، متوسط بقاء الزبون 24 شهراً، هامش 80% ← LTV ≈ 96 دولاراً. إنفاق تسويقي 500 دولار أعطى 20 مشتركاً جديداً ← COCA = 25 دولاراً. النسبة LTV/COCA ≈ 3.8، أي فوق الحدّ الأدنى 3. لو ارتفعت COCA إلى 40 دولاراً تنزل النسبة إلى 2.4 ويلزم تحسين قنوات الاكتساب أو رفع السعر.",
+    "en": "Review app (training numbers): $5/month subscription, 24-month average lifetime, 80% margin gives LTV ≈ $96. $500 marketing produced 20 new subscribers, so COCA = $25. LTV/COCA ≈ 3.8, above the 3× minimum. If COCA rose to $40 the ratio drops to 2.4 and acquisition channels or pricing must improve."
+  },
+  "activity": {
+    "ar": "اختر نموذجي إيراد ممكنين لمشروعك، واحسب LTV وCOCA لكل منهما باستخدام أرقام واقعية من بحثك (اذكر كل افتراض). ثم قرّر أيهما أنسب.",
+    "en": "Pick two possible revenue models for your venture; compute LTV and COCA for each using realistic numbers from your research (state every assumption). Decide which fits better.",
+    "deliverable": { "ar": "المشروع الختامي: صفحة نموذج الإيراد مع حساب LTV وCOCA.", "en": "Capstone: revenue-model page with LTV and COCA." }
+  },
+  "quiz": [
+    { "q": { "ar": "لماذا نحسب LTV بالربح وليس بالإيراد؟", "en": "Why compute LTV with profit, not revenue?" }, "a": { "ar": "لأن المشروع يعيش بالربح؛ إيراد كبير بهامش ضعيف قد يخسر.", "en": "A business lives on profit; big revenue with thin margin can still lose." } },
+    { "q": { "ar": "ما هي قاعدة Skok؟", "en": "What is Skok's Law?" }, "a": { "ar": "يجب أن تكون LTV على الأقل ثلاثة أضعاف COCA.", "en": "LTV should be at least three times COCA." } },
+    { "q": { "ar": "لماذا تُقدَّر COCA غالباً بأقل من الحقيقة؟", "en": "Why is COCA often underestimated?" }, "a": { "ar": "لأننا ننسى نسب التحويل ودورة البيع الطويلة ووقت الفريق والدعم التنظيمي.", "en": "Because we forget conversion rates, long sales cycles, team time and organisational support." } }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "part": 1,
+  "title": { "ar": "أساطير الريادة وطرق البدء: من الشغف إلى فكرة", "en": "Myths of Entrepreneurship and Ways to Start" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Lecture 4: Three Ways to Start a Company", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-4/", "type": "video", "note": { "ar": "الشغف والفكرة والتقنية.", "en": "Passion, idea, technology." } },
+    { "name": "MIT 15.390 · Lecture 5: Six Myths of Entrepreneurship", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-5/", "type": "video", "note": { "ar": "ست أساطير شائعة وتصحيحها.", "en": "Six common myths and their rebuttals." } },
+    { "name": "MIT 15.390 · Lecture 11: From Passion to Idea or Technology", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-11/", "type": "video", "note": { "ar": "أسئلة تقييم نفسك قبل اختيار الفكرة.", "en": "Self-assessment questions before choosing an idea." } },
+    { "name": "MIT 15.393 · Why Do You Want to Be an Entrepreneur?", "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session6-part1_mp4/", "type": "video", "note": { "ar": "اختياري: الدافع الشخصي.", "en": "Optional: personal motivation." } }
+  ],
+  "objectives": {
+    "ar": ["معرفة الطرق الثلاث للبدء: دفع التقنية (Technology Push)، وسحب السوق (Market Pull)، والشغف", "تفنيد ست أساطير شائعة عن رواد الأعمال", "تقييم نفسك بحسب عوامل مثل المعرفة والقدرات والعلاقات والموارد والالتزام"],
+    "en": ["Know the three starting points: technology push, market pull, passion", "Rebut six common myths about entrepreneurs", "Assess yourself on knowledge, capability, connections, resources and commitment"]
+  },
+  "summary_ar": [
+    "يذكر المحاضر ثلاث طرق يبدأ منها رواد الأعمال. الأولى دفع التقنية: شخص يملك تقنية أو حلاً (غالباً من مختبر بحثي) ويبحث عن سوق يطبّقه فيه، ومن مزاياه وجود ميزة تنافسية جاهزة، وتحدّيه إيجاد ملاءمة السوق. الثانية سحب السوق: شخص يعرف مشكلة حقيقية في سوق ما من خبرته، ومن مزاياه انخفاض المخاطرة لأن الطلب معروف، وتحدّيه غياب ميزة تقنية تميّزه. الثالثة الشغف: شخص يريد أن يكون رائد أعمال دون فكرة محددة بعد. يؤكد المحاضر أن الشغف وحده لا يكفي، وأن صاحبه يحتاج إلى الانضمام إلى فريق فيه من يملك التقنية أو من يفهم السوق.",
+    "ثم يفنّد ست أساطير: (1) رواد الأعمال هم الأذكى وأصحاب أعلى الدرجات، والواقع أن أكثرهم لم يكونوا الأوائل بل ركّزوا على ما يهمهم. (2) رائد الأعمال فرد يعمل وحده، بينما تشير أبحاث Ed Roberts إلى أن الفرق أكثر نجاحاً من الأفراد. (3) رواد الأعمال يُولدون ولا يُصنعون، والواقع أن الريادة مهارات تُتعلّم. (4) رواد الأعمال يحبون المخاطرة، بل يفضّلون المخاطرة المحسوبة حيث يملكون ميزة غير عادلة تقلّل الخطر. (5) رائد الأعمال ناجح لأنه جذّاب الشخصية، وأبحاث مركز القيادة في MIT لا تجد علاقة بين الكاريزما والنجاح. (6) رواد الأعمال غير منضبطين، والحقيقة أنهم يحتاجون انضباطاً شديداً لأن مواردهم قليلة، ومن هنا عنوان كتاب Disciplined Entrepreneurship.",
+    "في المحاضرة الحادية عشرة يُقترح تقييم نفسك عبر عوامل: المعرفة بالمجال، والقدرات الخاصة، والعلاقات المهنية، والموارد المالية، وسمعتك عند اللاعبين في السوق، وخبرتك السابقة، والشغف الذي يمكن أن يستمر لسنوات. ويعلو فوقها كلها الالتزام (Commitment): من يملك الالتزام قد يتفوّق على من يملك تقنية أفضل."
+  ],
+  "explain_ar": [
+    "كثير ناس يفكرون إن رائد الأعمال شخص خارق: أذكى واحد بالصف، وما يخاف من شي، وساحر بالكلام. المحاضر يقول العكس. أغلب الناجحين مو من الأوائل، ومو كلهم اجتماعيين. الريادة مهارة مثل السواقة، تتعلمها بالممارسة، مو موهبة تنولد وياك.",
+    "أهم شي: رائد الأعمال ما يحب المخاطرة بشكل أعمى. لو تشوفه بالكازينو، لا، هذا مو ذاك الشخص. هو يحاول يقلل المخاطرة، ويدوّر ميزة يمتلكها تخليه يربح باحتمال أكبر. مثال عندنا: طالب أمن سيبراني يعرف مشكلة عند شركات محلية بحماية بياناتها. هو يعرف السوق (Market Pull) ويعرف يسوي الحل، فمخاطرته أقل من واحد يفتح مشروع بمجال ما يفهمه.",
+    "شنو الطرق للبدء؟ إذا عندك تقنية (مثلاً سويت نموذج ذكاء اصطناعي بمشروع تخرجك) فأنت Technology Push، وسؤالك: منو يحتاجه ويدفع عليه؟ وإذا عندك مشكلة شفتها بعينك بالشغل أو بالجامعة فأنت Market Pull، وسؤالك: شلون أحلها بشكل أحسن من الموجود؟ وإذا بس عندك حماس وما عندك لا فكرة ولا تقنية، هذا مو عيب، بس لازم تنضم لفريق فيه أحد عنده واحد من الاثنين، لأن المحاضر يكرّر: الفريق أقوى من الفرد.",
+    "وقبل لا تقرر، اسأل نفسك بصدق: شنو أعرف؟ شنو أكدر أسوي؟ منو أعرف من الناس المؤثرين؟ شكد فلوس عندي؟ وهل أكدر أكمل بهذا الشي ست سنوات؟ الجواب الأخير أهم من الباقي، لأن اللي يكمل هو اللي يوصل."
+  ],
+  "summary_en": [
+    "Three starting points: Technology Push (a solution looking for a market), Market Pull (a known market problem, lower risk, no built-in tech edge) and Passion (wants to be an entrepreneur; must team up with technology or market insight).",
+    "Six myths rebutted: smartest people; lone individuals; born not made; love risk; charismatic; undisciplined.",
+    "Teams are more likely to succeed than individuals (Ed Roberts research cited in the lecture).",
+    "Entrepreneurs prefer calculated risk: they look for unfair advantages and then reduce risk elsewhere.",
+    "Self-assessment factors: knowledge, capability, connections, financial resources, name recognition, past experience, passion; above all, commitment."
+  ],
+  "terms": [
+    { "en": "Technology Push", "ar": "دفع التقنية (تقنية تبحث عن سوق)" },
+    { "en": "Market Pull", "ar": "سحب السوق (مشكلة معروفة تبحث عن حل)" },
+    { "en": "Calculated risk", "ar": "مخاطرة محسوبة" },
+    { "en": "Unfair advantage", "ar": "ميزة غير عادلة (شيء تملكه ولا يملكه غيرك)" },
+    { "en": "Commitment", "ar": "الالتزام" },
+    { "en": "Founding team", "ar": "الفريق المؤسس" }
+  ],
+  "example": {
+    "ar": "خريج أمن سيبراني لديه نموذج لكشف البرمجيات الخبيثة (تقنية) ويعرف أن شركات محلية تعاني من الهجمات (سوق). يقيّم نفسه: المعرفة قوية، والقدرة التقنية قوية، العلاقات ضعيفة، والتمويل محدود. القرار: ينضم إلى شريك يملك علاقات مع شركات، ويختار سوقاً لا تحتاج رأس مال كبيراً.",
+    "en": "A cybersecurity graduate has a malware-detection model (technology) and knows local companies suffer attacks (market). Self-assessment: strong knowledge and technical capability, weak connections, limited funds. Decision: partner with someone who has company relationships and choose a market that does not need heavy capital."
+  },
+  "activity": {
+    "ar": "اكتب جدول تقييم ذاتي من 1 إلى 5 للعوامل: المعرفة، القدرة، العلاقات، المال، السمعة، الخبرة، الشغف، الالتزام. ثم حدّد أين تحتاج شريكاً. وأخيراً اذكر أسطورتين كنت تصدّقهما وما الذي تغيّر.",
+    "en": "Build a 1-5 self-assessment table (knowledge, capability, connections, money, reputation, experience, passion, commitment). Identify where you need a partner. Name two myths you believed and what changed.",
+    "deliverable": { "ar": "المشروع الختامي: جدول التقييم الذاتي وخطة الفريق المطلوب.", "en": "Capstone: self-assessment table and the team you need." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما ميزة وتحدي كل من Technology Push وMarket Pull؟", "en": "What are the advantage and challenge of Technology Push and Market Pull?" }, "a": { "ar": "Technology Push: ميزة تنافسية جاهزة، لكن التحدي إيجاد سوق مناسب. Market Pull: مخاطرة أقل لأن الطلب معروف، لكن ليست هناك ميزة تقنية تلقائية.", "en": "Technology Push: built-in differentiation, but must find market fit. Market Pull: lower risk because demand is known, but no automatic technology advantage." } },
+    { "q": { "ar": "لماذا تُعدّ أسطورة «رائد الأعمال يحب المخاطرة» خاطئة؟", "en": "Why is 'entrepreneurs love risk' a myth?" }, "a": { "ar": "لأن رواد الأعمال يسعون إلى مخاطرة محسوبة: يستغلون ميزة غير عادلة ثم يقلّلون المخاطر الأخرى بمنهجية.", "en": "Entrepreneurs pursue calculated risk: they exploit an unfair advantage and then methodically reduce other risks." } },
+    { "q": { "ar": "ما العامل الذي يتفوّق على غيره بحسب المحاضر؟", "en": "Which factor outweighs the others, according to the lecturer?" }, "a": { "ar": "الالتزام (Commitment): من يملكه قد يتفوّق على من يملك تقنية أفضل.", "en": "Commitment: the committed founder may outperform one with better technology." } }
+  ]
+}

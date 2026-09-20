@@ -1,0 +1,55 @@
+{
+  "id": 9,
+  "part": 5,
+  "title": { "ar": "أساسيات التسويق: التجزئة والاستهداف والتموضع والعلامة", "en": "Marketing Basics: Segmentation, Targeting, Positioning and Brand" },
+  "hours": 2,
+  "sources": [
+    { "name": "Coursera · Introduction to Marketing (Wharton, University of Pennsylvania)", "url": "https://www.coursera.org/learn/wharton-marketing", "type": "course", "note": { "ar": "المصدر الرئيسي: خمس وحدات، نحو 10 ساعات. يتوفر Audit مجاني، والشهادة مدفوعة.", "en": "Main source: five modules, about 10 hours. Free audit; certificate paid." } },
+    { "name": "MIT 15.393 · Market Identification and Sales: Finding Your Customer", "url": "https://ocw.mit.edu/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/resources/ocw_15393_session1-part2_mp4/", "type": "video", "note": { "ar": "تكميلي.", "en": "Complementary." } }
+  ],
+  "objectives": {
+    "ar": ["شرح مفاهيم التجزئة والاستهداف والتموضع (STP)", "فهم معنى قيمة العلامة (Brand Equity) والتفكير المرتكز على الزبون", "تجهيز رسالة تسويقية أولية لشريحتك"],
+    "en": ["Explain segmentation, targeting and positioning (STP)", "Understand brand equity and customer-centric thinking", "Draft an initial marketing message for your segment"]
+  },
+  "summary_ar": [
+    "يغطي كورس Introduction to Marketing (Wharton) ثلاثة محاور: العلامة التجارية، ومحورية الزبون، واستراتيجيات الدخول إلى السوق. وتتوزع محتوياته على خمس وحدات: العلامة والتموضع (أساسيات التسويق، التجزئة، التموضع، والعلامة القائمة على التجربة)، ومحورية الزبون (الانتقال من التركيز على المنتج إلى التركيز على الزبون)، واستراتيجيات الدخول إلى السوق (تخطيط الاتصالات والتسعير وإدارة القنوات)، والاتصال بالعلامة (الرسائل وعناصر العلامة وإعادة التموضع)، ووحدة تطبيقية اختيارية بدراسات حالة.",
+    "وبشكل عام: التجزئة (Segmentation) تقسّم السوق إلى مجموعات متجانسة، والاستهداف (Targeting) يختار المجموعة أو المجموعات التي ستخدمها، والتموضع (Positioning) يحدد الصورة التي تريد أن تتكوّن في ذهن الزبون عن منتجك مقارنة بالبدائل. قيمة العلامة (Brand Equity) هي القيمة الإضافية التي تكتسبها العلامة في ذهن الزبائن بحيث يفضلونها أو يقبلون دفع سعر أعلى لها."
+  ],
+  "explain_ar": [
+    "التسويق مو إعلانات بس. هو أن تفهم زبونك وتوصله بالطريقة المناسبة. والكورس اللي نعتمد عليه من جامعة بنسلفانيا (Wharton) يقسمه لثلاث أفكار: العلامة، الزبون، وطريقة الدخول للسوق.",
+    "STP تحفظها سهلة: Segmentation: أقسّم السوق لمجموعات. Targeting: أختار مجموعة أو مجموعتين أخدمهم. Positioning: أحدد شنو أريد الزبون يفتكر عني. هذا بالضبط الشغل اللي سويناه بالمحاضرات 3 و4 و6، هنا نحطه بإطار تسويقي.",
+    "الـ Brand شنو؟ مو الشعار بس. هو السمعة والانطباع اللي يخلي الزبون يقول «هذا يعتمد عليه». وإذا العلامة قوية، الزبون يدفع أكثر أو يفضّلك على غيرك. اسم مثل (Zappos) بالمحاضرة الماضية بُني على خدمة الزبائن.",
+    "والـ Customer Centricity معناه: قراراتك تبدأ من الزبون مو من المنتج. بدل ما تسأل «شنو نكدر نبني؟»، اسأل «شنو الزبون يحتاج؟ وشلون نخليه يرجع؟».",
+    "أما Go-to-Market فهو خطة الوصول: شنو الرسالة؟ بأي سعر؟ عبر أي قناة (انستغرام، تلغرام، الجامعة، شركاء)؟ ابدأ بقناة وحدة وجرّبها وقيس النتيجة، بعدين وسّع.",
+    "ملاحظة: تفاصيل الكورس تحتاج تشوفها بنفسك بصفحة Coursera (الوضع المجاني Audit)، وهنا ركّزنا على الأفكار العامة."
+  ],
+  "summary_en": [
+    "Wharton's course covers three themes: branding, customer centricity and go-to-market strategy, across five modules (brand positioning, customer centricity, go-to-market, brand communications, optional applied cases).",
+    "STP: Segmentation divides the market; Targeting chooses whom to serve; Positioning defines the place you want in the customer's mind versus alternatives.",
+    "Brand equity is the extra value a brand carries in customers' minds; customers prefer it or pay more for it.",
+    "Customer-centric companies start decisions from customer needs and long-term value rather than product convenience.",
+    "A go-to-market plan defines target segment, message, pricing, channels and how results will be measured."
+  ],
+  "terms": [
+    { "en": "STP (Segmentation, Targeting, Positioning)", "ar": "التجزئة والاستهداف والتموضع" },
+    { "en": "Brand equity", "ar": "قيمة العلامة" },
+    { "en": "Customer centricity", "ar": "محورية الزبون" },
+    { "en": "Go-to-market", "ar": "خطة الدخول للسوق" },
+    { "en": "Value messaging", "ar": "رسالة القيمة" },
+    { "en": "Channel", "ar": "قناة الوصول" }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة: الاستهداف: طلاب الهندسة المسائيون. التموضع: «المراجعة السريعة التي تناسب وقتك الضيق ومنهج جامعتك». الرسالة: «راجع محاضرة كاملة في 15 دقيقة». القنوات: مجموعات تلغرام الجامعية وممثلو الدفعات. القياس: عدد التسجيلات لكل منشور.",
+    "en": "Review app: target evening engineering students. Positioning: 'fast revision that fits your tight schedule and your syllabus.' Message: 'Review a full lecture in 15 minutes.' Channels: university Telegram groups and class representatives. Metric: sign-ups per post."
+  },
+  "activity": {
+    "ar": "اكتب جملة تموضع واحدة لمشروعك، ورسالتين تسويقيتين قصيرتين مختلفتين، وقناتين للوصول لشريحتك. اختر قناة لتجربتها هذا الأسبوع وحدّد مقياس النجاح.",
+    "en": "Write one positioning sentence, two different short marketing messages and two channels to reach your segment. Pick one channel to test this week and define the success metric.",
+    "deliverable": { "ar": "المشروع الختامي: صفحة التسويق (تموضع، رسالة، قنوات).", "en": "Capstone: marketing page (positioning, message, channels)." }
+  },
+  "quiz": [
+    { "q": { "ar": "ما معنى STP؟", "en": "What does STP mean?" }, "a": { "ar": "التجزئة، الاستهداف، التموضع.", "en": "Segmentation, Targeting, Positioning." } },
+    { "q": { "ar": "ما الذي تضيفه العلامة القوية؟", "en": "What does a strong brand add?" }, "a": { "ar": "قيمة إضافية في ذهن الزبون تجعله يفضلها أو يقبل دفع سعر أعلى.", "en": "Extra value in the customer's mind, so they prefer it or accept a higher price." } },
+    { "q": { "ar": "ما عناصر خطة الدخول للسوق؟", "en": "What are the elements of a go-to-market plan?" }, "a": { "ar": "الشريحة والرسالة والتسعير وقنوات الوصول والقياس.", "en": "Segment, message, pricing, channels and measurement." } }
+  ]
+}

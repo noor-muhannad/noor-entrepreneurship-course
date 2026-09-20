@@ -1,0 +1,56 @@
+{
+  "id": 10,
+  "part": 5,
+  "title": { "ar": "كيف يشتري الزبون؟ قنوات البيع وعملية اتخاذ القرار", "en": "How Does the Customer Buy? Channels, Decision-Making Unit and Sales Process" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Session 12: How does your customer acquire your product? (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec12/", "type": "slides", "note": { "ar": "المصدر الرئيسي: DMU وDMP وخريطة عملية البيع.", "en": "Main source: DMU, DMP and sales process map." } },
+    { "name": "MIT 15.390 · Session 15: Sales and distribution plans (slides)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec15/", "type": "slides", "note": { "ar": "تكميلي.", "en": "Complementary." } }
+  ],
+  "objectives": {
+    "ar": ["رسم وحدة اتخاذ القرار (DMU) عند الزبون", "رسم مسار قرار الشراء (DMP) بمدد زمنية واقعية", "بناء خريطة عملية البيع وتطور القنوات مع الوقت"],
+    "en": ["Map the Decision-Making Unit (DMU)", "Map the Decision-Making Process (DMP) with realistic timelines", "Build a sales process map and channel evolution"]
+  },
+  "summary_ar": [
+    "تعرض الشرائح ثلاث خطوات مترابطة لفهم كيف يحصل الزبون على منتجك. الخطوة 12: وحدة اتخاذ القرار (DMU) وتحدد كل الأطراف المشاركة في الشراء: المشتري الاقتصادي (من يملك الميزانية)، والمؤثرون، وصنّاع القرار التقنيون، ومن يملك حق النقض. الخطوة 13: عملية اتخاذ القرار (DMP) وتسلسل خطوات الشراء مع المدد الزمنية ودورات الميزانية والموافقات. الخطوة 18: خريطة عملية البيع (Sales Process Map) وتصف تطور القناة: تبدأ مبيعات مباشرة 100% ثم قنوات مختلطة مع شركاء إقليميين، ثم قنوات على الويب مع نضج المنتج.",
+    "المثال في الشرائح: برنامج جدولة مواعيد لعيادات الرعاية الأولية (Smart Scheduling). أطراف القرار: مدير العيادة، وإدارة المركز الطبي، ومزوّد أنظمة السجلات الطبية (EMR)، وقسم تقنية المعلومات. مدة دورة الشراء بين 4 و16 شهراً بمسارين متوازيين: العيادة والشريك المزوّد. الاستراتيجية الأولية تعتمد على الشراكة مع مزوّد يخدم نحو 35,000 عيادة لمضاعفة الوصول دون توسيع فريق المبيعات.",
+    "وتنبّه الشرائح إلى أن استراتيجية المبيعات كثيراً ما تُهمل مع أنها تؤثر كثيراً في تكلفة اكتساب الزبون، وتنصح بالتحقق من افتراضات القنوات مع محترفين من القطاع."
+  ],
+  "explain_ar": [
+    "بأغلب الأحيان اللي يستخدم المنتج مو هو اللي يدفع. الطالب يستخدم التطبيق، بس أحياناً الجامعة أو الأهل هم اللي يدفعون. لهذا نرسم الـ DMU: من هم كل الناس اللي يشاركون بقرار الشراء؟",
+    "الأدوار الأساسية: (1) Economic Buyer: اللي بيده الفلوس. (2) Influencer: اللي يأثّر برأيه. (3) Technical Decision-maker: اللي يقيّم الجانب التقني. (4) Veto: اللي يكدر يوقف القرار بكلمة. لو مشروعك يبيع لمؤسسات (جامعة، شركة، مستشفى)، غالباً هواية أشخاص يشاركون.",
+    "والـ DMP هو الطريق: شنو الخطوات وبأي تسلسل ومدة كل خطوة. مثلاً بالمثال بالمحاضرة، بيع برنامج للعيادات ياخذ من 4 إلى 16 شهر! لو ما تعرف هذا، راح تخطط لفلوس تجي بعد شهرين وهي تجي بعد سنة، ويخلص مالك قبل ما تبيع.",
+    "خريطة البيع تتطور: بالبداية أنت بنفسك تبيع (مباشر 100%) لأنك تتعلم من كل زبون. وبعدين تضيف شركاء أو موزعين، وبعدين قنوات على الإنترنت. مثال المحاضرة: شراكة مع شركة عندها 35,000 عيادة أفضل من إنك تدور على العيادات وحدة وحدة.",
+    "وأهم شي: هذا كله يأثّر على COCA. كل شهر زيادة بدورة البيع معناه فلوس أكثر تخسرها. تحقق من كلامك مع ناس عندهم خبرة بالمجال."
+  ],
+  "summary_en": [
+    "DMU (Step 12): everyone involved in the purchase: economic buyer, influencers, technical decision-makers, and those with veto power.",
+    "DMP (Step 13): the sequence of purchase steps with realistic timelines, budget cycles and approvals.",
+    "Sales process map (Step 18): channels evolve, starting with 100% direct sales, then mixed channels with regional partners, then web-based approaches as the product matures.",
+    "Smart Scheduling example: healthcare scheduling software; DMU includes clinic administrators, directors, EMR vendor and IT; buying cycle 4-16 months; partnering with an EMR vendor serving around 35,000 clinics multiplies reach without a larger sales force.",
+    "Sales strategy strongly affects COCA; validate channel assumptions with experienced industry professionals."
+  ],
+  "terms": [
+    { "en": "DMU (Decision-Making Unit)", "ar": "وحدة اتخاذ القرار" },
+    { "en": "DMP (Decision-Making Process)", "ar": "عملية اتخاذ القرار" },
+    { "en": "Economic buyer", "ar": "المشتري الاقتصادي" },
+    { "en": "Influencer", "ar": "المؤثر" },
+    { "en": "Veto power", "ar": "حق النقض" },
+    { "en": "Sales process map", "ar": "خريطة عملية البيع" },
+    { "en": "Channel partner", "ar": "شريك قناة" }
+  ],
+  "example": {
+    "ar": "تطبيق المراجعة يُباع أيضاً كخدمة للكليات. الـ DMU: رئيس القسم (مؤثر)، عميد الكلية (مشتري اقتصادي)، مسؤول تقنية المعلومات (قرار تقني)، وإدارة الجامعة (حق نقض). الـ DMP (تقدير): عرض تجريبي، ثم موافقة القسم، ثم الميزانية، ثم العقد، وقد يمتد إلى أشهر. القناة: تبدأ بمبيعات مباشرة للكليات، ثم شراكة مع مزوّد أنظمة جامعية.",
+    "en": "The review app is also sold to faculties. DMU: head of department (influencer), dean (economic buyer), IT officer (technical decision), university administration (veto). DMP (estimate): pilot, department approval, budget, contract, possibly taking months. Channel: begin with direct sales to faculties, then partner with a university-systems vendor."
+  },
+  "activity": {
+    "ar": "ارسم DMU لأحد زبائنك المحتملين ومسار DMP بمدد تقديرية. ثم اكتب خريطة قنوات لثلاث مراحل (سنة أولى، ثانية، ثالثة). تحقق من الافتراضات بمقابلة شخص من القطاع.",
+    "en": "Draw the DMU of one potential customer and its DMP with estimated timings. Then write a channel map for three stages (year 1, 2, 3). Validate assumptions by interviewing someone from the industry.",
+    "deliverable": { "ar": "المشروع الختامي: DMU وDMP وخريطة القنوات.", "en": "Capstone: DMU, DMP and channel map." }
+  },
+  "quiz": [
+    { "q": { "ar": "من هو المشتري الاقتصادي؟", "en": "Who is the economic buyer?" }, "a": { "ar": "الطرف الذي يملك الميزانية ويوافق على الدفع.", "en": "The party who controls the budget and approves payment." } },
+    { "q": { "ar": "لماذا مهم تقدير مدة DMP؟", "en": "Why does the DMP timeline matter?" }, "a": { "ar": "لأن دورة الشراء الطويلة تؤخر الإيراد وترفع تكلفة اكتساب الزبون وتؤثر في التدفق النقدي.", "en": "A long buying cycle delays revenue, raises acquisition cost and strains cash flow." } },
+    { "q": { "ar": "كيف تتطور القنوات عادةً؟", "en": "How do channels typically evolve?" }, "a": { "ar": "من مبيعات مباشرة 100% إلى قنوات مختلطة مع شركاء ثم قنوات ويب مع نضج المنتج.", "en": "From 100% direct sales to mixed channels with partners, then web channels as the product matures." } }
+  ]
+}

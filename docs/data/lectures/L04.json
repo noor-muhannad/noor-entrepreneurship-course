@@ -1,0 +1,56 @@
+{
+  "id": 4,
+  "part": 2,
+  "title": { "ar": "سوق البداية، شخصية الزبون، وحجم السوق", "en": "Beachhead Market, Customer Persona and Market Size" },
+  "hours": 2,
+  "sources": [
+    { "name": "MIT 15.390 · Lecture 7: What is a Beachhead Market", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/lecture-7/", "type": "video", "note": { "ar": "مفهوم سوق البداية ومكانه في رحلة الريادة.", "en": "The beachhead concept and its place in the journey." } },
+    { "name": "MITx Online · Entrepreneurship 101: Who is Your Customer?", "url": "https://mitxonline.mit.edu/courses/course-v1:MITxT+Bootcamp1/", "type": "course", "note": { "ar": "يغطي: سوق البداية، ملف المستخدم، Persona، تقدير TAM، ومقابلات الزبائن.", "en": "Covers beachhead selection, end user profile, persona, TAM and customer interviews." } },
+    { "name": "MIT 15.390 · Session 6: Target customer (lecture notes)", "url": "https://ocw.mit.edu/courses/15-390-new-enterprises-spring-2013/resources/mit15_390s13_lec06/", "type": "slides", "note": { "ar": "شرائح المحاضرة (PDF).", "en": "Lecture slides (PDF)." } }
+  ],
+  "objectives": {
+    "ar": ["اختيار سوق البداية (Beachhead Market) بمعايير واضحة", "بناء ملف المستخدم النهائي (End User Profile) وشخصية الزبون (Persona)", "تقدير حجم السوق الكلي (TAM) بطريقة من الأسفل إلى الأعلى (Bottom-up)"],
+    "en": ["Select a beachhead market using clear criteria", "Build an end-user profile and customer persona", "Estimate TAM bottom-up"]
+  },
+  "summary_ar": [
+    "سوق البداية (Beachhead Market) هو الشريحة المحددة من السوق التي تبدأ بها وتركّز عليها أولاً. المحاضرة السابعة تشرح أهمية هذا المفهوم ومكانه في رحلة رائد الأعمال: بدل محاولة خدمة الجميع، تختار سوقاً واحداً تستطيع الفوز به، ثم تتوسع منه. وتأتي كلمة beachhead من الاستراتيجية العسكرية.",
+    "بعد اختيار سوق البداية يصف كورس Entrepreneurship 101 خطوات لفهم الزبون: بناء ملف المستخدم النهائي (End User Profile)، ثم شخصية الزبون (Customer Persona) التي تجمع أهدافه واحتياجاته وسلوكه في وصف واحد، وذلك اعتماداً على مقابلات وبحث أولي وليس على التخمين.",
+    "ثم يُقدَّر حجم السوق الكلي (TAM: Total Addressable Market). يميّز الكورس بين طريقة من الأعلى إلى الأسفل (Top-down) تعتمد على تقارير عامة، وطريقة من الأسفل إلى الأعلى (Bottom-up) تبدأ من عدد الزبائن الفعليين الذين يمكن الوصول إليهم وما يدفعه كل منهم سنوياً، وهي الطريقة التي يركّز عليها الكورس لأنها أكثر ارتباطاً بالواقع."
+  ],
+  "explain_ar": [
+    "سوق البداية (Beachhead) معناه الشاطئ اللي ينزل عليه الجيش أول شي. الجيش ما ينزل على كل السواحل مرة وحدة، ينزل بمكان واحد يسيطر عليه وبعدين يتوسّع. نفس الشي بالمشروع: لا تقول «كل الناس زبائني». اختر مجموعة صغيرة وواضحة، وأتقن خدمتها.",
+    "ليش هذا مفيد؟ لأن المجموعة الصغيرة تكدر توصلها بميزانية قليلة، تعرف احتياجها بدقة، وتسوي منتج يناسبها 100%. وإذا صرت الأفضل عندها، الكلام ينتشر (word of mouth) وتوصل للمجموعة اللي بعدها.",
+    "والـ Persona شنو؟ هي شخصية افتراضية تمثّل زبونك. مثلاً: «علي، 22 سنة، طالب سنة ثالثة هندسة بالحلة، يدرس بالليل، ميزانيته قليلة، يستخدم تلي كرام أكثر من أي تطبيق». كل ما تكون الشخصية أدق، قراراتك بالتصميم والتسويق أسهل. وتبنيها من مقابلات حقيقية، مو من راسك.",
+    "أما TAM فهو: لو أخذت كل الزبائن الممكنين بسوقك، شكد يصير الدخل السنوي؟ الطريقة الصحيحة (Bottom-up): تعدّ كم زبون فعلي تكدر توصله، وتضربه بشكد يدفع كل واحد بالسنة. مثال افتراضي: 8,000 طالب × 30 دولار بالسنة = 240,000 دولار. هذا أوضح وأصدق من رقم كبير تاخذه من تقرير عالمي.",
+    "انتبه: هذه أرقام تدريبية للتوضيح فقط، أنت لازم تحسب أرقام سوقك الحقيقية من بحثك."
+  ],
+  "summary_en": [
+    "A beachhead market is the specific segment you win first, then expand from; the term comes from military strategy.",
+    "Do not try to serve everyone: a narrow, well-understood segment is easier to reach and satisfy.",
+    "End user profile and customer persona turn interview findings into a concrete description of the person you serve.",
+    "TAM (Total Addressable Market) estimates the annual revenue if you won every possible customer in the segment.",
+    "Prefer bottom-up (number of reachable customers × annual revenue per customer) over top-down (slices of generic industry reports)."
+  ],
+  "terms": [
+    { "en": "Beachhead market", "ar": "سوق البداية" },
+    { "en": "End user profile", "ar": "ملف المستخدم النهائي" },
+    { "en": "Customer persona", "ar": "شخصية الزبون" },
+    { "en": "TAM (Total Addressable Market)", "ar": "حجم السوق الكلي المتاح" },
+    { "en": "Bottom-up vs Top-down", "ar": "من الأسفل للأعلى مقابل من الأعلى للأسفل" },
+    { "en": "Customer interview", "ar": "مقابلة زبون" }
+  ],
+  "example": {
+    "ar": "تطبيق مراجعة: سوق البداية = طلاب الهندسة في جامعات الفرات الأوسط الذين يدرسون مساءً. Persona: «علي، 22 سنة، يعمل نهاراً ويدرس مساءً، وقته ضيق». TAM (مثال افتراضي): 8,000 طالب × 30 دولاراً سنوياً = 240,000 دولار. بعد النجاح يتوسع إلى كليات أخرى ثم محافظات أخرى.",
+    "en": "Review app: beachhead = evening-programme engineering students in middle-Euphrates universities. Persona: 'Ali, 22, works by day, studies at night, short on time.' TAM (illustrative): 8,000 students × $30/year = $240,000. After winning, expand to other faculties and provinces."
+  },
+  "activity": {
+    "ar": "اختر شريحة البداية لمشروعك من قائمة الدرس السابق. اكتب Persona من صفحة واحدة مبنية على مقابلاتك، واحسب TAM بطريقة Bottom-up مع ذكر كل افتراض.",
+    "en": "Choose your beachhead from last lecture's list. Write a one-page persona based on your interviews and compute a bottom-up TAM, stating every assumption.",
+    "deliverable": { "ar": "المشروع الختامي: صفحة سوق البداية (Persona + TAM).", "en": "Capstone: beachhead page (persona + TAM)." }
+  },
+  "quiz": [
+    { "q": { "ar": "لماذا نبدأ بسوق بداية صغير بدل السوق الكبير؟", "en": "Why start with a small beachhead rather than the big market?" }, "a": { "ar": "لأنه أسهل في الوصول والفهم وخدمة احتياجاته بدقة، والفوز فيه يمهّد للتوسع.", "en": "It is easier to reach, understand and serve precisely, and winning it prepares expansion." } },
+    { "q": { "ar": "ما الفرق بين Top-down وBottom-up في تقدير TAM؟", "en": "How do top-down and bottom-up TAM differ?" }, "a": { "ar": "Top-down يبدأ من تقارير سوق عامة ويأخذ حصة منها. Bottom-up يبدأ من عدد زبائن فعليين يمكن الوصول إليهم × ما يدفعه كل منهم.", "en": "Top-down starts from general market reports and takes a share; bottom-up multiplies the reachable customers by what each pays." } },
+    { "q": { "ar": "ممّ تُبنى الـ Persona؟", "en": "What is a persona built from?" }, "a": { "ar": "من مقابلات وبحث أولي مع زبائن حقيقيين، لا من التخمين.", "en": "From interviews and primary research with real customers, not guesses." } }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "course": {
+    "title": { "ar": "أساسيات ريادة الأعمال", "en": "Entrepreneurship Fundamentals" },
+    "tagline": { "ar": "من الفكرة إلى الانطلاق", "en": "From Idea to Launch" },
+    "lead": {
+      "ar": "12 محاضرة تبدأ من سؤال «ما هي الريادة؟» وتنتهي بعرض مشروعك أمام مستثمر. النظرية مأخوذة من مصادر عالمية موثوقة (MIT وHarvard وWharton وStanford) وأنا أشرحها بالعربي مع المصطلحات الإنكليزية، ولكل محاضرة ملف PDF ومشروع تطبيقي.",
+      "en": "Twelve lectures that start with 'What is entrepreneurship?' and end with pitching your venture to an investor. The theory comes from trusted global sources (MIT, Harvard, Wharton, Stanford), explained in Arabic with English terminology, with a PDF study sheet and an applied project for every lecture."
+    },
+    "instructor": "Noor Muhannad Ahmed"
+  },
+  "parts": [
+    { "id": 1, "title": { "ar": "الأساسيات", "en": "Foundations" }, "blurb": { "ar": "ما هي الريادة وكيف تبدأ", "en": "What entrepreneurship is and how to begin" } },
+    { "id": 2, "title": { "ar": "الزبون والسوق", "en": "Customer and Market" }, "blurb": { "ar": "من يدفع ولماذا", "en": "Who pays and why" } },
+    { "id": 3, "title": { "ar": "القيمة والمنافسة", "en": "Value and Competition" }, "blurb": { "ar": "ما الذي يميّزك", "en": "What sets you apart" } },
+    { "id": 4, "title": { "ar": "نموذج العمل", "en": "Business Model" }, "blurb": { "ar": "كيف يربح المشروع", "en": "How the venture earns" } },
+    { "id": 5, "title": { "ar": "الوصول للسوق", "en": "Go-to-Market" }, "blurb": { "ar": "التسويق والبيع", "en": "Marketing and sales" } },
+    { "id": 6, "title": { "ar": "المالية والانطلاق", "en": "Finance and Launch" }, "blurb": { "ar": "الأرقام والفريق والعرض", "en": "Numbers, team and pitch" } }
+  ],
+  "capstone": {
+    "title": { "ar": "المشروع الختامي: خطة مشروعك", "en": "Capstone: Your Venture Plan" },
+    "intro": {
+      "ar": "في كل محاضرة تنتج صفحة واحدة. في النهاية تجمع الصفحات الاثنتي عشرة في خطة مشروع واحدة وتقدّم عرضاً من 7 شرائح لمدة 10 دقائق.",
+      "en": "Each lecture produces one page. At the end you combine the twelve pages into one venture plan and deliver a seven-slide, ten-minute pitch."
+    },
+    "rubric": [
+      { "w": 25, "name": { "ar": "أدلة من الزبائن (مقابلات، Persona، TAM)", "en": "Customer evidence (interviews, persona, TAM)" } },
+      { "w": 20, "name": { "ar": "القيمة والمنافسة والتموضع", "en": "Value, competition and positioning" } },
+      { "w": 20, "name": { "ar": "نموذج العمل واقتصاديات الوحدة (LTV وCOCA)", "en": "Business model and unit economics (LTV, COCA)" } },
+      { "w": 15, "name": { "ar": "خطة الوصول للسوق والبيع", "en": "Go-to-market and sales plan" } },
+      { "w": 10, "name": { "ar": "الجدول المالي والسيناريوهات", "en": "Financial table and scenarios" } },
+      { "w": 10, "name": { "ar": "العرض والوضوح", "en": "Pitch and clarity" } }
+    ],
+    "rubricNote": {
+      "ar": "الأوزان اقتراح قابل للتعديل من المدرّسة.",
+      "en": "Weights are a suggestion the instructor can adjust."
+    }
+  },
+  "attribution": {
+    "ar": "أجزاء من المحتوى مقتبسة ومعاد صياغتها من مادة MIT OpenCourseWare 15.390 «New Enterprises» (Bill Aulet وآخرون) وMIT 15.393، وهي مرخّصة CC BY-NC-SA 4.0. هذا الاستخدام غير تجاري، والمحتوى المشتق يُشارَك بالرخصة نفسها. روابط MITx وedX وCoursera تقود إلى المنصات الأصلية، وشروط الوصول المجاني والأسعار تحدّدها تلك المنصات وقد تتغيّر.",
+    "en": "Parts of the content are adapted and paraphrased from MIT OpenCourseWare 15.390 'New Enterprises' (Bill Aulet and others) and MIT 15.393, licensed CC BY-NC-SA 4.0. This use is non-commercial and derivative material is shared under the same licence. MITx, edX and Coursera links lead to the original platforms; free-access terms and prices are set by those platforms and may change."
+  }
+}
